@@ -384,14 +384,14 @@
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-03 07:50:21.021 +0100</RunDate>
   <Status>Running</Status>
   <Duration>0.000000</Duration>
-  <Errors></Errors>
-  <Warnings></Warnings>
-  <Exceptions></Exceptions>
-  <Successes></Successes>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
   <LogFile>20160603_075021.021/LogFile.txt</LogFile>
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
@@ -399,7 +399,7 @@
  <run>
   <RunDate>2016-06-03 07:51:43.043 +0100</RunDate>
   <Status>Failure</Status>
-  <Duration>99.139000</Duration>
+  <Duration>99.000000</Duration>
   <Errors>1</Errors>
   <Warnings>0</Warnings>
   <Exceptions>0</Exceptions>
@@ -408,10 +408,10 @@
   <ReturnValue></ReturnValue>
   <ErrorMessage>STUnknownMessage -- ERROR: No Such Command: &#x27;findlist1&#x27;</ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-03 07:54:01.001 +0100</RunDate>
   <Status>Failure</Status>
-  <Duration>8.297000</Duration>
+  <Duration>8.000000</Duration>
   <Errors>1</Errors>
   <Warnings>0</Warnings>
   <Exceptions>0</Exceptions>
@@ -420,10 +420,10 @@
   <ReturnValue></ReturnValue>
   <ErrorMessage>STUnknownMessage -- ERROR: No Such Function: &#x27;findlist1&#x27;</ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-03 07:55:29.029 +0100</RunDate>
   <Status>Failure</Status>
-  <Duration>8.484000</Duration>
+  <Duration>8.000000</Duration>
   <Errors>1</Errors>
   <Warnings>0</Warnings>
   <Exceptions>0</Exceptions>
@@ -432,10 +432,10 @@
   <ReturnValue></ReturnValue>
   <ErrorMessage>STUnknownMessage -- ERROR: No Such Function: &#x27;findlist1&#x27;</ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-03 07:57:05.005 +0100</RunDate>
   <Status>Failure</Status>
-  <Duration>11.730000</Duration>
+  <Duration>11.000000</Duration>
   <Errors>1</Errors>
   <Warnings>0</Warnings>
   <Exceptions>0</Exceptions>
@@ -444,10 +444,10 @@
   <ReturnValue></ReturnValue>
   <ErrorMessage>STUnknownMessage -- ERROR: No Such Function: &#x27;findlist1&#x27;</ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-03 07:58:51.051 +0100</RunDate>
   <Status>Failure</Status>
-  <Duration>10.405000</Duration>
+  <Duration>10.000000</Duration>
   <Errors>1</Errors>
   <Warnings>0</Warnings>
   <Exceptions>1</Exceptions>
@@ -456,10 +456,10 @@
   <ReturnValue></ReturnValue>
   <ErrorMessage>Image Not Found -- waitfor Error - Image Property List did not contain &quot;ImageName&quot; property</ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-03 08:01:04.004 +0100</RunDate>
   <Status>Failure</Status>
-  <Duration>1.438000</Duration>
+  <Duration>1.000000</Duration>
   <Errors>1</Errors>
   <Warnings>0</Warnings>
   <Exceptions>0</Exceptions>
@@ -468,10 +468,10 @@
   <ReturnValue></ReturnValue>
   <ErrorMessage>STInvalidBoolean -- Value &#x27;mynewlist1&#x27; is not TRUE, FALSE, YES, NO, ON, OFF or empty</ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-03 08:01:43.043 +0100</RunDate>
   <Status>Failure</Status>
-  <Duration>1.391000</Duration>
+  <Duration>1.000000</Duration>
   <Errors>1</Errors>
   <Warnings>0</Warnings>
   <Exceptions>0</Exceptions>
@@ -480,10 +480,10 @@
   <ReturnValue></ReturnValue>
   <ErrorMessage>InvalidCommandOrRange -- Not a valid command, or incorrect types given for a range (not numbers, date/times, or characters)</ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-03 08:03:13.013 +0100</RunDate>
   <Status>Success</Status>
-  <Duration>1.359000</Duration>
+  <Duration>1.000000</Duration>
   <Errors>0</Errors>
   <Warnings>0</Warnings>
   <Exceptions>0</Exceptions>
@@ -492,10 +492,10 @@
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-03 08:05:06.006 +0100</RunDate>
   <Status>Success</Status>
-  <Duration>1.234000</Duration>
+  <Duration>1.000000</Duration>
   <Errors>0</Errors>
   <Warnings>0</Warnings>
   <Exceptions>0</Exceptions>
@@ -504,10 +504,10 @@
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-03 08:05:45.045 +0100</RunDate>
   <Status>Success</Status>
-  <Duration>1.344000</Duration>
+  <Duration>1.000000</Duration>
   <Errors>0</Errors>
   <Warnings>0</Warnings>
   <Exceptions>0</Exceptions>
@@ -516,10 +516,10 @@
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-03 08:11:04.004 +0100</RunDate>
   <Status>Failure</Status>
-  <Duration>0.406000</Duration>
+  <Duration>0.000000</Duration>
   <Errors>1</Errors>
   <Warnings>0</Warnings>
   <Exceptions>0</Exceptions>
@@ -528,10 +528,10 @@
   <ReturnValue></ReturnValue>
   <ErrorMessage>SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got &#x27;get&#x27;.</ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-03 08:11:57.057 +0100</RunDate>
   <Status>Failure</Status>
-  <Duration>0.453000</Duration>
+  <Duration>0.000000</Duration>
   <Errors>1</Errors>
   <Warnings>0</Warnings>
   <Exceptions>0</Exceptions>
@@ -540,10 +540,10 @@
   <ReturnValue></ReturnValue>
   <ErrorMessage>STUnknownMessage -- ERROR: No Such Command: &#x27;findlist1&#x27;</ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-03 08:13:38.038 +0100</RunDate>
   <Status>Failure</Status>
-  <Duration>0.390000</Duration>
+  <Duration>0.000000</Duration>
   <Errors>1</Errors>
   <Warnings>0</Warnings>
   <Exceptions>0</Exceptions>
@@ -552,10 +552,10 @@
   <ReturnValue></ReturnValue>
   <ErrorMessage>STUnknownMessage -- ERROR: No Such Command: &#x27;findlist1&#x27;</ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-03 08:15:24.024 +0100</RunDate>
   <Status>Failure</Status>
-  <Duration>0.391000</Duration>
+  <Duration>0.000000</Duration>
   <Errors>1</Errors>
   <Warnings>0</Warnings>
   <Exceptions>0</Exceptions>
@@ -564,10 +564,10 @@
   <ReturnValue></ReturnValue>
   <ErrorMessage>STUnknownMessage -- ERROR: No Such Function: &#x27;findlist1&#x27;</ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-03 08:16:35.035 +0100</RunDate>
   <Status>Failure</Status>
-  <Duration>0.421000</Duration>
+  <Duration>0.000000</Duration>
   <Errors>1</Errors>
   <Warnings>0</Warnings>
   <Exceptions>0</Exceptions>
@@ -576,10 +576,10 @@
   <ReturnValue></ReturnValue>
   <ErrorMessage>STUnknownMessage -- ERROR: No Such Command: &#x27;findlistlist&#x27;</ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-03 08:16:49.049 +0100</RunDate>
   <Status>Success</Status>
-  <Duration>1.563000</Duration>
+  <Duration>1.000000</Duration>
   <Errors>0</Errors>
   <Warnings>0</Warnings>
   <Exceptions>0</Exceptions>
@@ -588,14 +588,14 @@
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-03 08:17:16.016 +0100</RunDate>
   <Status>Running</Status>
   <Duration>0.000000</Duration>
-  <Errors></Errors>
-  <Warnings></Warnings>
-  <Exceptions></Exceptions>
-  <Successes></Successes>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
   <LogFile>20160603_081716.016/LogFile.txt</LogFile>
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
@@ -603,7 +603,7 @@
  <run>
   <RunDate>2016-06-03 08:18:39.039 +0100</RunDate>
   <Status>Failure</Status>
-  <Duration>12.625000</Duration>
+  <Duration>12.000000</Duration>
   <Errors>1</Errors>
   <Warnings>0</Warnings>
   <Exceptions>1</Exceptions>
@@ -613,10 +613,10 @@
   <ErrorMessage>Image Not Found -- waitfor Error - Unable To Find Any Image On Screen &quot;(TEXT:&quot;disha&quot;)&quot; within 8.00 seconds  Restricted Search Rectangle ((21,80),(218,657))
 </ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-03 08:21:19.019 +0100</RunDate>
   <Status>Failure</Status>
-  <Duration>24.158000</Duration>
+  <Duration>24.000000</Duration>
   <Errors>1</Errors>
   <Warnings>0</Warnings>
   <Exceptions>1</Exceptions>
@@ -626,14 +626,14 @@
   <ErrorMessage>Image Not Found -- waitfor Error - Unable To Find Any Image On Screen &quot;(TEXT:&quot;disha&quot;)&quot; within 8.00 seconds  Restricted Search Rectangle ((21,80),(218,657))
 </ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-03 08:21:59.059 +0100</RunDate>
   <Status>Running</Status>
   <Duration>0.000000</Duration>
-  <Errors></Errors>
-  <Warnings></Warnings>
-  <Exceptions></Exceptions>
-  <Successes></Successes>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
   <LogFile>20160603_082159.059/LogFile.txt</LogFile>
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
@@ -641,7 +641,7 @@
  <run>
   <RunDate>2016-06-03 08:25:01.001 +0100</RunDate>
   <Status>Failure</Status>
-  <Duration>18.095000</Duration>
+  <Duration>18.000000</Duration>
   <Errors>1</Errors>
   <Warnings>0</Warnings>
   <Exceptions>1</Exceptions>
@@ -651,10 +651,10 @@
   <ErrorMessage>Image Not Found -- waitfor Error - Unable To Find Any Image On Screen &quot;(TEXT:&quot;disha&quot;)&quot; within 8.00 seconds  Restricted Search Rectangle ((21,80),(218,657))
 </ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-03 08:46:01.001 +0100</RunDate>
   <Status>Success</Status>
-  <Duration>0.656000</Duration>
+  <Duration>0.000000</Duration>
   <Errors>0</Errors>
   <Warnings>0</Warnings>
   <Exceptions>0</Exceptions>
@@ -663,10 +663,10 @@
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-03 08:47:01.001 +0100</RunDate>
   <Status>Success</Status>
-  <Duration>0.625000</Duration>
+  <Duration>0.000000</Duration>
   <Errors>0</Errors>
   <Warnings>0</Warnings>
   <Exceptions>0</Exceptions>
@@ -675,10 +675,10 @@
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-03 08:49:52.052 +0100</RunDate>
   <Status>Success</Status>
-  <Duration>0.625000</Duration>
+  <Duration>0.000000</Duration>
   <Errors>0</Errors>
   <Warnings>0</Warnings>
   <Exceptions>0</Exceptions>
@@ -687,14 +687,14 @@
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-03 08:50:32.032 +0100</RunDate>
   <Status>Running</Status>
   <Duration>0.000000</Duration>
-  <Errors></Errors>
-  <Warnings></Warnings>
-  <Exceptions></Exceptions>
-  <Successes></Successes>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
   <LogFile>20160603_085032.032/LogFile.txt</LogFile>
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
@@ -702,7 +702,7 @@
  <run>
   <RunDate>2016-06-03 08:52:33.033 +0100</RunDate>
   <Status>Failure</Status>
-  <Duration>17.542000</Duration>
+  <Duration>17.000000</Duration>
   <Errors>1</Errors>
   <Warnings>0</Warnings>
   <Exceptions>1</Exceptions>
@@ -712,14 +712,14 @@
   <ErrorMessage>Image Not Found -- waitfor Error - Unable To Find Any Image On Screen &quot;(TEXT:&quot;disha&quot;)&quot; within 8.00 seconds  Restricted Search Rectangle ((21,80),(218,657))
 </ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-03 08:57:15.015 +0100</RunDate>
   <Status>Running</Status>
   <Duration>0.000000</Duration>
-  <Errors></Errors>
-  <Warnings></Warnings>
-  <Exceptions></Exceptions>
-  <Successes></Successes>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
   <LogFile>20160603_085715.015/LogFile.txt</LogFile>
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
@@ -728,10 +728,10 @@
   <RunDate>2016-06-03 08:59:22.022 +0100</RunDate>
   <Status>Running</Status>
   <Duration>0.000000</Duration>
-  <Errors></Errors>
-  <Warnings></Warnings>
-  <Exceptions></Exceptions>
-  <Successes></Successes>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
   <LogFile>20160603_085922.022/LogFile.txt</LogFile>
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
@@ -740,10 +740,10 @@
   <RunDate>2016-06-03 09:01:33.033 +0100</RunDate>
   <Status>Running</Status>
   <Duration>0.000000</Duration>
-  <Errors></Errors>
-  <Warnings></Warnings>
-  <Exceptions></Exceptions>
-  <Successes></Successes>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
   <LogFile>20160603_090133.033/LogFile.txt</LogFile>
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
@@ -752,10 +752,10 @@
   <RunDate>2016-06-03 09:02:36.036 +0100</RunDate>
   <Status>Running</Status>
   <Duration>0.000000</Duration>
-  <Errors></Errors>
-  <Warnings></Warnings>
-  <Exceptions></Exceptions>
-  <Successes></Successes>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
   <LogFile>20160603_090236.036/LogFile.txt</LogFile>
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
@@ -764,10 +764,10 @@
   <RunDate>2016-06-03 09:03:31.031 +0100</RunDate>
   <Status>Running</Status>
   <Duration>0.000000</Duration>
-  <Errors></Errors>
-  <Warnings></Warnings>
-  <Exceptions></Exceptions>
-  <Successes></Successes>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
   <LogFile>20160603_090331.031/LogFile.txt</LogFile>
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
@@ -775,7 +775,7 @@
  <run>
   <RunDate>2016-06-03 09:08:01.001 +0100</RunDate>
   <Status>Failure</Status>
-  <Duration>0.594000</Duration>
+  <Duration>0.000000</Duration>
   <Errors>1</Errors>
   <Warnings>0</Warnings>
   <Exceptions>1</Exceptions>
@@ -784,10 +784,10 @@
   <ReturnValue></ReturnValue>
   <ErrorMessage>Error Running Script Command -- waitfor Error - Too Few Parameters, please use waitfor time, image1[, imageX]</ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-03 09:08:45.045 +0100</RunDate>
   <Status>Failure</Status>
-  <Duration>0.407000</Duration>
+  <Duration>0.000000</Duration>
   <Errors>1</Errors>
   <Warnings>0</Warnings>
   <Exceptions>1</Exceptions>
@@ -796,14 +796,14 @@
   <ReturnValue></ReturnValue>
   <ErrorMessage>Error Running Script Command -- waitfor Error - Too Few Parameters, please use waitfor time, image1[, imageX]</ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-03 09:09:28.028 +0100</RunDate>
   <Status>Running</Status>
   <Duration>0.000000</Duration>
-  <Errors></Errors>
-  <Warnings></Warnings>
-  <Exceptions></Exceptions>
-  <Successes></Successes>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
   <LogFile>20160603_090928.028/LogFile.txt</LogFile>
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
@@ -811,7 +811,7 @@
  <run>
   <RunDate>2016-06-03 09:10:30.030 +0100</RunDate>
   <Status>Success</Status>
-  <Duration>0.407000</Duration>
+  <Duration>0.000000</Duration>
   <Errors>0</Errors>
   <Warnings>0</Warnings>
   <Exceptions>0</Exceptions>
@@ -820,10 +820,10 @@
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-03 09:13:24.024 +0100</RunDate>
   <Status>Success</Status>
-  <Duration>0.641000</Duration>
+  <Duration>0.000000</Duration>
   <Errors>0</Errors>
   <Warnings>0</Warnings>
   <Exceptions>0</Exceptions>
@@ -832,10 +832,10 @@
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-03 09:14:44.044 +0100</RunDate>
   <Status>Success</Status>
-  <Duration>0.532000</Duration>
+  <Duration>0.000000</Duration>
   <Errors>0</Errors>
   <Warnings>0</Warnings>
   <Exceptions>0</Exceptions>
@@ -844,14 +844,14 @@
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-03 09:20:34.034 +0100</RunDate>
   <Status>Running</Status>
   <Duration>0.000000</Duration>
-  <Errors></Errors>
-  <Warnings></Warnings>
-  <Exceptions></Exceptions>
-  <Successes></Successes>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
   <LogFile>20160603_092034.034/LogFile.txt</LogFile>
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
@@ -859,7 +859,7 @@
  <run>
   <RunDate>2016-06-03 09:21:46.046 +0100</RunDate>
   <Status>Success</Status>
-  <Duration>13.609000</Duration>
+  <Duration>13.000000</Duration>
   <Errors>0</Errors>
   <Warnings>0</Warnings>
   <Exceptions>0</Exceptions>
@@ -868,10 +868,10 @@
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-03 09:55:58.058 +0100</RunDate>
   <Status>Success</Status>
-  <Duration>1.969000</Duration>
+  <Duration>1.000000</Duration>
   <Errors>0</Errors>
   <Warnings>0</Warnings>
   <Exceptions>0</Exceptions>
@@ -880,10 +880,10 @@
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-03 09:56:41.041 +0100</RunDate>
   <Status>Success</Status>
-  <Duration>1.968000</Duration>
+  <Duration>1.000000</Duration>
   <Errors>0</Errors>
   <Warnings>0</Warnings>
   <Exceptions>0</Exceptions>
@@ -892,10 +892,10 @@
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-03 10:16:35.035 +0100</RunDate>
   <Status>Failure</Status>
-  <Duration>0.750000</Duration>
+  <Duration>0.000000</Duration>
   <Errors>1</Errors>
   <Warnings>0</Warnings>
   <Exceptions>0</Exceptions>
@@ -904,10 +904,10 @@
   <ReturnValue></ReturnValue>
   <ErrorMessage>STUnknownMessage -- ERROR: No Such Command: &#x27;findlist1&#x27;</ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-03 10:59:37.037 +0100</RunDate>
   <Status>Failure</Status>
-  <Duration>0.475000</Duration>
+  <Duration>0.000000</Duration>
   <Errors>1</Errors>
   <Warnings>0</Warnings>
   <Exceptions>0</Exceptions>
@@ -916,10 +916,10 @@
   <ReturnValue></ReturnValue>
   <ErrorMessage>STUnknownMessage -- ERROR: No Such Command: &#x27;findlist1&#x27;</ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-03 11:16:12.012 +0100</RunDate>
   <Status>Failure</Status>
-  <Duration>0.446000</Duration>
+  <Duration>0.000000</Duration>
   <Errors>1</Errors>
   <Warnings>0</Warnings>
   <Exceptions>0</Exceptions>
@@ -928,10 +928,10 @@
   <ReturnValue></ReturnValue>
   <ErrorMessage>STUnknownMessage -- ERROR: No Such Command: &#x27;findlist1&#x27;</ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-03 11:21:39.039 +0100</RunDate>
   <Status>Failure</Status>
-  <Duration>0.469000</Duration>
+  <Duration>0.000000</Duration>
   <Errors>1</Errors>
   <Warnings>0</Warnings>
   <Exceptions>0</Exceptions>
@@ -940,10 +940,10 @@
   <ReturnValue></ReturnValue>
   <ErrorMessage>STUnknownMessage -- ERROR: No Such Function: &#x27;findlist1&#x27;</ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-03 11:24:00.000 +0100</RunDate>
   <Status>Failure</Status>
-  <Duration>0.429000</Duration>
+  <Duration>0.000000</Duration>
   <Errors>1</Errors>
   <Warnings>0</Warnings>
   <Exceptions>0</Exceptions>
@@ -952,10 +952,10 @@
   <ReturnValue></ReturnValue>
   <ErrorMessage>STUnknownMessage -- ERROR: No Such Function: &#x27;findlist1&#x27;</ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-03 11:27:01.001 +0100</RunDate>
   <Status>Failure</Status>
-  <Duration>0.510000</Duration>
+  <Duration>0.000000</Duration>
   <Errors>1</Errors>
   <Warnings>0</Warnings>
   <Exceptions>0</Exceptions>

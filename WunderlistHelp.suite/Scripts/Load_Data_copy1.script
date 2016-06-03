@@ -10,27 +10,25 @@
 		log list
 		log todo
 		log subtask
-		Repeat with each item of list
-			list.findlist list
-			log status
-			if status equals "proceed"
-				list.listmethod list
-			else
-				log "matchfound"
-			end if
-			
-			Repeat with each item of todo
-				//Todo.find todo
-				//	if todovar equals 1
-				Todo.create todo
-				//	else
-				//		log "matach todo found"
-				//	end if
-				
-				Repeat with each item of subtask
-					Todo.createsubtask subtask		
-				End Repeat
-End Repeat
-End Repeat
-End Repeat
+		//Repeat with each item of list
+		
+		if ImageFound(1.0, (TEXT: list)) 
+			Click (TEXT: list)
+		else
+			List.listmethod list
+		end if
+		
+		//Repeat with each item of todo
+		if ImageFound(1.0, (TEXT: todo)) 
+			DoubleClick (TEXT: todo)
+		else
+			todo.create todo
+		end if
+		
+		Repeat with each item of subtask
+			Todo.createsubtask subtask		
+		End Repeat
+		//End Repeat
+		//End Repeat
+	End Repeat
 end read

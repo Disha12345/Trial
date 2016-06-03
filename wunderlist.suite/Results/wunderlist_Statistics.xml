@@ -32,13 +32,13 @@
   <LastRun>2016-06-03 00:28:11 +0100</LastRun>
   <TotalTimeOnSuccess>55.525000</TotalTimeOnSuccess>
  </script>
- <script name="_Test4 Completing Todos">
-  <LastStatus>Success</LastStatus>
-  <NumberOfRuns>25</NumberOfRuns>
-  <NumberOfFails>9</NumberOfFails>
-  <FirstRun>2016-05-31 13:48:40 +0100</FirstRun>
-  <LastRun>2016-06-02 15:42:22 +0100</LastRun>
-  <TotalTimeOnSuccess>447.083000</TotalTimeOnSuccess>
+ <script name="_Test6 ReadFile">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>72</NumberOfRuns>
+  <NumberOfFails>58</NumberOfFails>
+  <FirstRun>2016-06-01 14:44:07 +0100</FirstRun>
+  <LastRun>2016-06-03 13:27:54 +0100</LastRun>
+  <TotalTimeOnSuccess>1661.734000</TotalTimeOnSuccess>
  </script>
  <script name="_Test2 Multiple todos">
   <LastStatus>Success</LastStatus>
@@ -56,12 +56,12 @@
   <LastRun>2016-06-03 06:37:25 +0100</LastRun>
   <TotalTimeOnSuccess>102.790000</TotalTimeOnSuccess>
  </script>
- <script name="_Test6 ReadFile">
-  <LastStatus>Failure</LastStatus>
-  <NumberOfRuns>70</NumberOfRuns>
-  <NumberOfFails>57</NumberOfFails>
-  <FirstRun>2016-06-01 14:44:07 +0100</FirstRun>
-  <LastRun>2016-06-03 11:10:38 +0100</LastRun>
-  <TotalTimeOnSuccess>1164.273000</TotalTimeOnSuccess>
+ <script name="_Test4 Completing Todos">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>25</NumberOfRuns>
+  <NumberOfFails>9</NumberOfFails>
+  <FirstRun>2016-05-31 13:48:40 +0100</FirstRun>
+  <LastRun>2016-06-02 15:42:22 +0100</LastRun>
+  <TotalTimeOnSuccess>447.083000</TotalTimeOnSuccess>
  </script>
 </statistics>
