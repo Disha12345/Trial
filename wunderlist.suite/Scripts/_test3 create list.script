@@ -1,4 +1,4 @@
-﻿put "disha1" into list
+﻿put "disha1" into list_name
 //list.listmethod list
-list.findlist1 list
+get list.findlist1(list_name,status)
 log status

@@ -1551,14 +1551,14 @@ Syntax Error at line 24: Syntax Error - can&#x27;t understand &quot;read&quot; a
   <ReturnValue></ReturnValue>
   <ErrorMessage>InvalidCommandOrRange -- Not a valid command, or incorrect types given for a range (not numbers, date/times, or characters)</ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-03 05:46:12.012 +0100</RunDate>
   <Status>Running</Status>
   <Duration>0.000000</Duration>
-  <Errors></Errors>
-  <Warnings></Warnings>
-  <Exceptions></Exceptions>
-  <Successes></Successes>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
   <LogFile>20160603_054612.012/LogFile.txt</LogFile>
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
@@ -1567,10 +1567,10 @@ Syntax Error at line 24: Syntax Error - can&#x27;t understand &quot;read&quot; a
   <RunDate>2016-06-03 05:51:28.028 +0100</RunDate>
   <Status>Running</Status>
   <Duration>0.000000</Duration>
-  <Errors></Errors>
-  <Warnings></Warnings>
-  <Exceptions></Exceptions>
-  <Successes></Successes>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
   <LogFile>20160603_055128.028/LogFile.txt</LogFile>
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
@@ -1579,10 +1579,10 @@ Syntax Error at line 24: Syntax Error - can&#x27;t understand &quot;read&quot; a
   <RunDate>2016-06-03 05:53:02.002 +0100</RunDate>
   <Status>Running</Status>
   <Duration>0.000000</Duration>
-  <Errors></Errors>
-  <Warnings></Warnings>
-  <Exceptions></Exceptions>
-  <Successes></Successes>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
   <LogFile>20160603_055302.002/LogFile.txt</LogFile>
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
@@ -1591,10 +1591,10 @@ Syntax Error at line 24: Syntax Error - can&#x27;t understand &quot;read&quot; a
   <RunDate>2016-06-03 05:54:33.033 +0100</RunDate>
   <Status>Running</Status>
   <Duration>0.000000</Duration>
-  <Errors></Errors>
-  <Warnings></Warnings>
-  <Exceptions></Exceptions>
-  <Successes></Successes>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
   <LogFile>20160603_055433.033/LogFile.txt</LogFile>
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
@@ -1603,10 +1603,10 @@ Syntax Error at line 24: Syntax Error - can&#x27;t understand &quot;read&quot; a
   <RunDate>2016-06-03 05:55:35.035 +0100</RunDate>
   <Status>Running</Status>
   <Duration>0.000000</Duration>
-  <Errors></Errors>
-  <Warnings></Warnings>
-  <Exceptions></Exceptions>
-  <Successes></Successes>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
   <LogFile>20160603_055535.035/LogFile.txt</LogFile>
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
@@ -1615,10 +1615,10 @@ Syntax Error at line 24: Syntax Error - can&#x27;t understand &quot;read&quot; a
   <RunDate>2016-06-03 06:02:15.015 +0100</RunDate>
   <Status>Running</Status>
   <Duration>0.000000</Duration>
-  <Errors></Errors>
-  <Warnings></Warnings>
-  <Exceptions></Exceptions>
-  <Successes></Successes>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
   <LogFile>20160603_060215.015/LogFile.txt</LogFile>
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
@@ -1627,10 +1627,10 @@ Syntax Error at line 24: Syntax Error - can&#x27;t understand &quot;read&quot; a
   <RunDate>2016-06-03 06:03:30.030 +0100</RunDate>
   <Status>Running</Status>
   <Duration>0.000000</Duration>
-  <Errors></Errors>
-  <Warnings></Warnings>
-  <Exceptions></Exceptions>
-  <Successes></Successes>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
   <LogFile>20160603_060330.030/LogFile.txt</LogFile>
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
@@ -1638,7 +1638,7 @@ Syntax Error at line 24: Syntax Error - can&#x27;t understand &quot;read&quot; a
  <run>
   <RunDate>2016-06-03 06:04:49.049 +0100</RunDate>
   <Status>Failure</Status>
-  <Duration>30.751000</Duration>
+  <Duration>30.000000</Duration>
   <Errors>1</Errors>
   <Warnings>0</Warnings>
   <Exceptions>1</Exceptions>
@@ -1648,14 +1648,14 @@ Syntax Error at line 24: Syntax Error - can&#x27;t understand &quot;read&quot; a
   <ErrorMessage>Image Not Found -- waitfor Error - Unable To Find Any Image On Screen &quot;(TEXT:&quot;Shopping&quot;)&quot; within 8.00 seconds  Restricted Search Rectangle ((468,36),(996,646))
 </ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-03 06:05:56.056 +0100</RunDate>
   <Status>Running</Status>
   <Duration>0.000000</Duration>
-  <Errors></Errors>
-  <Warnings></Warnings>
-  <Exceptions></Exceptions>
-  <Successes></Successes>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
   <LogFile>20160603_060556.056/LogFile.txt</LogFile>
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
@@ -1664,10 +1664,10 @@ Syntax Error at line 24: Syntax Error - can&#x27;t understand &quot;read&quot; a
   <RunDate>2016-06-03 06:07:15.015 +0100</RunDate>
   <Status>Running</Status>
   <Duration>0.000000</Duration>
-  <Errors></Errors>
-  <Warnings></Warnings>
-  <Exceptions></Exceptions>
-  <Successes></Successes>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
   <LogFile>20160603_060715.015/LogFile.txt</LogFile>
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
@@ -1676,10 +1676,10 @@ Syntax Error at line 24: Syntax Error - can&#x27;t understand &quot;read&quot; a
   <RunDate>2016-06-03 06:08:21.021 +0100</RunDate>
   <Status>Running</Status>
   <Duration>0.000000</Duration>
-  <Errors></Errors>
-  <Warnings></Warnings>
-  <Exceptions></Exceptions>
-  <Successes></Successes>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
   <LogFile>20160603_060821.021/LogFile.txt</LogFile>
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
@@ -1688,10 +1688,10 @@ Syntax Error at line 24: Syntax Error - can&#x27;t understand &quot;read&quot; a
   <RunDate>2016-06-03 06:16:03.003 +0100</RunDate>
   <Status>Running</Status>
   <Duration>0.000000</Duration>
-  <Errors></Errors>
-  <Warnings></Warnings>
-  <Exceptions></Exceptions>
-  <Successes></Successes>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
   <LogFile>20160603_061603.003/LogFile.txt</LogFile>
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
@@ -1700,10 +1700,10 @@ Syntax Error at line 24: Syntax Error - can&#x27;t understand &quot;read&quot; a
   <RunDate>2016-06-03 06:17:10.010 +0100</RunDate>
   <Status>Running</Status>
   <Duration>0.000000</Duration>
-  <Errors></Errors>
-  <Warnings></Warnings>
-  <Exceptions></Exceptions>
-  <Successes></Successes>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
   <LogFile>20160603_061710.010/LogFile.txt</LogFile>
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
@@ -1712,10 +1712,10 @@ Syntax Error at line 24: Syntax Error - can&#x27;t understand &quot;read&quot; a
   <RunDate>2016-06-03 06:18:56.056 +0100</RunDate>
   <Status>Running</Status>
   <Duration>0.000000</Duration>
-  <Errors></Errors>
-  <Warnings></Warnings>
-  <Exceptions></Exceptions>
-  <Successes></Successes>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
   <LogFile>20160603_061856.056/LogFile.txt</LogFile>
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
@@ -1724,10 +1724,10 @@ Syntax Error at line 24: Syntax Error - can&#x27;t understand &quot;read&quot; a
   <RunDate>2016-06-03 06:21:37.037 +0100</RunDate>
   <Status>Running</Status>
   <Duration>0.000000</Duration>
-  <Errors></Errors>
-  <Warnings></Warnings>
-  <Exceptions></Exceptions>
-  <Successes></Successes>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
   <LogFile>20160603_062137.037/LogFile.txt</LogFile>
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
@@ -1736,10 +1736,10 @@ Syntax Error at line 24: Syntax Error - can&#x27;t understand &quot;read&quot; a
   <RunDate>2016-06-03 06:23:07.007 +0100</RunDate>
   <Status>Running</Status>
   <Duration>0.000000</Duration>
-  <Errors></Errors>
-  <Warnings></Warnings>
-  <Exceptions></Exceptions>
-  <Successes></Successes>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
   <LogFile>20160603_062307.007/LogFile.txt</LogFile>
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
@@ -1748,10 +1748,10 @@ Syntax Error at line 24: Syntax Error - can&#x27;t understand &quot;read&quot; a
   <RunDate>2016-06-03 06:26:05.005 +0100</RunDate>
   <Status>Running</Status>
   <Duration>0.000000</Duration>
-  <Errors></Errors>
-  <Warnings></Warnings>
-  <Exceptions></Exceptions>
-  <Successes></Successes>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
   <LogFile>20160603_062605.005/LogFile.txt</LogFile>
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
@@ -1759,7 +1759,7 @@ Syntax Error at line 24: Syntax Error - can&#x27;t understand &quot;read&quot; a
  <run>
   <RunDate>2016-06-03 06:26:45.045 +0100</RunDate>
   <Status>Failure</Status>
-  <Duration>2.547000</Duration>
+  <Duration>2.000000</Duration>
   <Errors>1</Errors>
   <Warnings>0</Warnings>
   <Exceptions>0</Exceptions>
@@ -1768,14 +1768,14 @@ Syntax Error at line 24: Syntax Error - can&#x27;t understand &quot;read&quot; a
   <ReturnValue></ReturnValue>
   <ErrorMessage>STInvalidBoolean -- Value &#x27;logerror&#x27; is not TRUE, FALSE, YES, NO, ON, OFF or empty</ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-03 06:28:45.045 +0100</RunDate>
   <Status>Running</Status>
   <Duration>0.000000</Duration>
-  <Errors></Errors>
-  <Warnings></Warnings>
-  <Exceptions></Exceptions>
-  <Successes></Successes>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
   <LogFile>20160603_062845.045/LogFile.txt</LogFile>
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
@@ -1783,7 +1783,7 @@ Syntax Error at line 24: Syntax Error - can&#x27;t understand &quot;read&quot; a
  <run>
   <RunDate>2016-06-03 06:34:45.045 +0100</RunDate>
   <Status>Failure</Status>
-  <Duration>6.425000</Duration>
+  <Duration>6.000000</Duration>
   <Errors>1</Errors>
   <Warnings>0</Warnings>
   <Exceptions>0</Exceptions>
@@ -1792,10 +1792,10 @@ Syntax Error at line 24: Syntax Error - can&#x27;t understand &quot;read&quot; a
   <ReturnValue></ReturnValue>
   <ErrorMessage>STInvalidBoolean -- Value &#x27;logerror&#x27; is not TRUE, FALSE, YES, NO, ON, OFF or empty</ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-03 06:35:57.057 +0100</RunDate>
   <Status>Failure</Status>
-  <Duration>6.873000</Duration>
+  <Duration>6.000000</Duration>
   <Errors>1</Errors>
   <Warnings>0</Warnings>
   <Exceptions>0</Exceptions>
@@ -1804,10 +1804,10 @@ Syntax Error at line 24: Syntax Error - can&#x27;t understand &quot;read&quot; a
   <ReturnValue></ReturnValue>
   <ErrorMessage>STInvalidBoolean -- Value &#x27;logerror&#x27; is not TRUE, FALSE, YES, NO, ON, OFF or empty</ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-03 06:43:02.002 +0100</RunDate>
   <Status>Failure</Status>
-  <Duration>61.452000</Duration>
+  <Duration>61.000000</Duration>
   <Errors>1</Errors>
   <Warnings>0</Warnings>
   <Exceptions>0</Exceptions>
@@ -1816,14 +1816,14 @@ Syntax Error at line 24: Syntax Error - can&#x27;t understand &quot;read&quot; a
   <ReturnValue></ReturnValue>
   <ErrorMessage>InvalidCommandOrRange -- Not a valid command, or incorrect types given for a range (not numbers, date/times, or characters)</ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-03 06:44:40.040 +0100</RunDate>
   <Status>Running</Status>
   <Duration>0.000000</Duration>
-  <Errors></Errors>
-  <Warnings></Warnings>
-  <Exceptions></Exceptions>
-  <Successes></Successes>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
   <LogFile>20160603_064440.040/LogFile.txt</LogFile>
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
@@ -1831,7 +1831,7 @@ Syntax Error at line 24: Syntax Error - can&#x27;t understand &quot;read&quot; a
  <run>
   <RunDate>2016-06-03 06:47:21.021 +0100</RunDate>
   <Status>Success</Status>
-  <Duration>52.516000</Duration>
+  <Duration>52.000000</Duration>
   <Errors>0</Errors>
   <Warnings>0</Warnings>
   <Exceptions>0</Exceptions>
@@ -1840,10 +1840,10 @@ Syntax Error at line 24: Syntax Error - can&#x27;t understand &quot;read&quot; a
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-03 06:49:15.015 +0100</RunDate>
   <Status>Failure</Status>
-  <Duration>0.391000</Duration>
+  <Duration>0.000000</Duration>
   <Errors>1</Errors>
   <Warnings>0</Warnings>
   <Exceptions>0</Exceptions>
@@ -1853,10 +1853,10 @@ Syntax Error at line 24: Syntax Error - can&#x27;t understand &quot;read&quot; a
   <ErrorMessage>SenseTalk Compiler Exception -- in read:
 Syntax Error at line 19: Syntax Error - can&#x27;t understand &quot;if&quot; at or near character 458</ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-03 06:49:40.040 +0100</RunDate>
   <Status>Success</Status>
-  <Duration>124.448000</Duration>
+  <Duration>124.000000</Duration>
   <Errors>0</Errors>
   <Warnings>0</Warnings>
   <Exceptions>0</Exceptions>
@@ -1865,14 +1865,14 @@ Syntax Error at line 19: Syntax Error - can&#x27;t understand &quot;if&quot; at 
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-03 06:54:26.026 +0100</RunDate>
   <Status>Running</Status>
   <Duration>0.000000</Duration>
-  <Errors></Errors>
-  <Warnings></Warnings>
-  <Exceptions></Exceptions>
-  <Successes></Successes>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
   <LogFile>20160603_065426.026/LogFile.txt</LogFile>
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
@@ -1881,10 +1881,10 @@ Syntax Error at line 19: Syntax Error - can&#x27;t understand &quot;if&quot; at 
   <RunDate>2016-06-03 07:37:31.031 +0100</RunDate>
   <Status>Running</Status>
   <Duration>0.000000</Duration>
-  <Errors></Errors>
-  <Warnings></Warnings>
-  <Exceptions></Exceptions>
-  <Successes></Successes>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
   <LogFile>20160603_073731.031/LogFile.txt</LogFile>
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
@@ -1893,10 +1893,10 @@ Syntax Error at line 19: Syntax Error - can&#x27;t understand &quot;if&quot; at 
   <RunDate>2016-06-03 07:38:21.021 +0100</RunDate>
   <Status>Running</Status>
   <Duration>0.000000</Duration>
-  <Errors></Errors>
-  <Warnings></Warnings>
-  <Exceptions></Exceptions>
-  <Successes></Successes>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
   <LogFile>20160603_073821.021/LogFile.txt</LogFile>
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
@@ -1905,10 +1905,10 @@ Syntax Error at line 19: Syntax Error - can&#x27;t understand &quot;if&quot; at 
   <RunDate>2016-06-03 07:40:40.040 +0100</RunDate>
   <Status>Running</Status>
   <Duration>0.000000</Duration>
-  <Errors></Errors>
-  <Warnings></Warnings>
-  <Exceptions></Exceptions>
-  <Successes></Successes>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
   <LogFile>20160603_074040.040/LogFile.txt</LogFile>
   <ReturnValue></ReturnValue>
   <ErrorMessage></ErrorMessage>
@@ -1916,7 +1916,7 @@ Syntax Error at line 19: Syntax Error - can&#x27;t understand &quot;if&quot; at 
  <run>
   <RunDate>2016-06-03 07:41:44.044 +0100</RunDate>
   <Status>Failure</Status>
-  <Duration>0.625000</Duration>
+  <Duration>0.000000</Duration>
   <Errors>1</Errors>
   <Warnings>0</Warnings>
   <Exceptions>0</Exceptions>
@@ -1925,15 +1925,27 @@ Syntax Error at line 19: Syntax Error - can&#x27;t understand &quot;if&quot; at 
   <ReturnValue></ReturnValue>
   <ErrorMessage>STUnknownMessage -- ERROR: No Such Command: &#x27;findlist1&#x27;</ErrorMessage>
  </run>
-< <run>
+ <run>
   <RunDate>2016-06-03 07:46:58.058 +0100</RunDate>
   <Status>Failure</Status>
-  <Duration>0.625000</Duration>
+  <Duration>0.000000</Duration>
   <Errors>1</Errors>
   <Warnings>0</Warnings>
   <Exceptions>0</Exceptions>
   <Successes>0</Successes>
   <LogFile>20160603_074658.058/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Function: &#x27;findlist1&#x27;</ErrorMessage>
+ </run>
+< <run>
+  <RunDate>2016-06-03 11:10:38.038 +0100</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.816000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160603_111038.038/LogFile.txt</LogFile>
   <ReturnValue></ReturnValue>
   <ErrorMessage>STUnknownMessage -- ERROR: No Such Function: &#x27;findlist1&#x27;</ErrorMessage>
  </run>

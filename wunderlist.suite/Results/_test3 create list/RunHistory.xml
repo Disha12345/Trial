@@ -904,4 +904,64 @@
   <ReturnValue></ReturnValue>
   <ErrorMessage>STUnknownMessage -- ERROR: No Such Command: &#x27;findlist1&#x27;</ErrorMessage>
  </run>
+< <run>
+  <RunDate>2016-06-03 10:59:37.037 +0100</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.475000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160603_105937.037/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Command: &#x27;findlist1&#x27;</ErrorMessage>
+ </run>
+< <run>
+  <RunDate>2016-06-03 11:16:12.012 +0100</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.446000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160603_111612.012/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Command: &#x27;findlist1&#x27;</ErrorMessage>
+ </run>
+< <run>
+  <RunDate>2016-06-03 11:21:39.039 +0100</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.469000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160603_112139.039/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Function: &#x27;findlist1&#x27;</ErrorMessage>
+ </run>
+< <run>
+  <RunDate>2016-06-03 11:24:00.000 +0100</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.429000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160603_112400.000/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Function: &#x27;findlist1&#x27;</ErrorMessage>
+ </run>
+< <run>
+  <RunDate>2016-06-03 11:27:01.001 +0100</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.510000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160603_112701.001/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>STUnknownMessage -- ERROR: No Such Function: &#x27;findlist1&#x27;</ErrorMessage>
+ </run>
 </runHistory>

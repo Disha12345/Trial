@@ -11,7 +11,7 @@
 		log todo
 		log subtask
 		Repeat with each item of list
-			get list.findlist1 (list,status)
+			list.findlist list
 			log status
 			if status equals "proceed"
 				list.listmethod list
