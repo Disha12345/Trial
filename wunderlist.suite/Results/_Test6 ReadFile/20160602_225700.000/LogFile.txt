@@ -1,0 +1,9 @@
+﻿2016-06-02 22:57:00.000 +0100	START		Running _Test6 ReadFile.script
+2016-06-02 22:57:00.000 +0100	Log		Baa	10	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Load_Data.script
+2016-06-02 22:57:00.000 +0100	Log		Black	11	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Load_Data.script
+2016-06-02 22:57:00.000 +0100	Log		Sheep,wool	12	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Load_Data.script
+2016-06-02 22:57:00.000 +0100	click	Addatodo	at (378, 105)	3	on_create	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-02 22:57:01.001 +0100	typetext		Black[return]	4	on_create	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-02 22:57:25.025 +0100	Exception	Shopping	No Image Found On Screen: "Shopping"	2	on_createsubtask	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-02 22:57:25.025 +0100	EndTestCase		(Duration:"25.384", Errors:"1", Exceptions:"1", StartTime:"2016-06-02 22:57:00 +0100", Successes:"0", TestCase:"_Test6 ReadFile.script", Warnings:"0")
+2016-06-02 22:57:25.025 +0100	ABORTED		Execution Time 0:00:25 _Test6 ReadFile.script

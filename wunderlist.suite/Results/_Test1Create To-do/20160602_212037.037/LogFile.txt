@@ -1,0 +1,6 @@
+﻿2016-06-02 21:20:37.037 +0100	START		Running _Test1Create To-do.script
+2016-06-02 21:20:37.037 +0100	click	Todos/image0001	at (355, 108)	3	on_create	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-02 21:20:38.038 +0100	typetext		dddd[return]	4	on_create	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-02 21:20:40.040 +0100	Exception		Searching For Image: OCR Error: Operation was aborted	5	on_create	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-02 21:20:41.041 +0100	EndTestCase		(Duration:"4.018", Errors:"1", Exceptions:"1", StartTime:"2016-06-02 21:20:37 +0100", Successes:"0", TestCase:"_Test1Create To-do.script", Warnings:"0")
+2016-06-02 21:20:41.041 +0100	ABORTED		Execution Time 0:00:04 _Test1Create To-do.script

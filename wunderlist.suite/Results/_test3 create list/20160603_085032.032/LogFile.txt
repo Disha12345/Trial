@@ -1,0 +1,5 @@
+﻿2016-06-03 08:50:32.032 +0100	START		Running _test3 create list.script
+2016-06-03 08:50:32.032 +0100	Log		Finding Listdisha	3	on_findlist	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/List.script
+2016-06-03 08:50:51.051 +0100	Exception	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", SearchRectangle:(21,80,218,657), Text:"disha", TextDifference:"1", TextPlatform:"Generic OCR")	Unable To Find Any Image On Screen "(TEXT:"disha")" within 8.00 seconds	5	on_findlist	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/List.script
+2016-06-03 08:50:51.051 +0100	EndTestCase		(Duration:"19.02", Errors:"1", Exceptions:"1", StartTime:"2016-06-03 08:50:32 +0100", Successes:"0", TestCase:"_test3 create list.script", Warnings:"0")
+2016-06-03 08:50:51.051 +0100	ABORTED		Execution Time 0:00:19 _test3 create list.script

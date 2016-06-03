@@ -1,0 +1,6 @@
+﻿2016-06-02 16:03:15.015 +0100	START		Running subtask.script
+2016-06-02 16:03:15.015 +0100	doubleclick	Shopping	at (364, 165)	1	on_subtask	subtask.script
+2016-06-02 16:03:16.016 +0100	click	Addasubtask_1	at (738, 197)	2	on_subtask	subtask.script
+2016-06-02 16:03:17.017 +0100	typetext		subtodo[return]	3	on_subtask	subtask.script
+2016-06-02 16:03:17.017 +0100	EndTestCase		(Duration:"2.454", Errors:"1", Exceptions:"0", StartTime:"2016-06-02 16:03:15 +0100", Successes:"0", TestCase:"subtask.script", Warnings:"0")
+2016-06-02 16:03:17.017 +0100	FAILURE	Screen_Error.png	Image Not Found waitfor Error - Error Computing Rectangle: (subtaskTopleft ,subtaskbottomright,) -- Execution Time 0:00:02 subtask.script

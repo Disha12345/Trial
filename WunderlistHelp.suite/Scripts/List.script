@@ -1,0 +1,43 @@
+﻿to listmethod list_name
+	//params list
+	
+	Click  "Lists/Createlist"
+	Click  "Lists/ListName"
+	TypeText list_name
+	Click "Save"
+	waitfor 8.0,(Text:list_name,TextDifference:1)
+end listmethod
+
+
+to showcompleted shw_name
+	//completed todos
+	if imagefound ("Tickbox")
+		log "completed todos shown"
+	else
+		Click  "Todos/show complete todos"
+		waitfor 8.0,"Tickbox"
+	end if
+end showcompleted
+
+
+to findlist  listname
+	
+	
+	WaitFor 8.0,(Text:listname,TextDifference:1,SearchRectangle:("listtopleft",  "listbottomright"))
+	logsuccess "list found" & listname
+	return true
+	
+	
+end findlist
+
+function findlist1 (listname,status)
+	WaitFor 8.0, (Text:listname,TextDifference:1,SearchRectangle :( "listtopleft", "listbottomright"))
+if listname
+		put "listfound" to status
+	else
+		put "proceed" to status
+	end if
+	return status
+end findlist1
+
+

@@ -1,0 +1,17 @@
+﻿2016-06-02 19:30:15.015 +0100	START		Running _Test6 ReadFile.script
+2016-06-02 19:30:15.015 +0100	Log		Finding List"Things to do	2	on_findlist	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-02 19:31:09.009 +0100	Exception	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", SearchRectangle:(21,80,218,657), Text:<<"Things to do>>, TextDifference:"1", TextPlatform:"Generic OCR")	Unable To Find Any Image On Screen "(TEXT:""Things to do")" within 8.00 seconds	4	on_findlist	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-02 19:31:09.009 +0100	Log		finished finding list	9	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Load_Data.script
+2016-06-02 19:31:09.009 +0100	Log		list exist	14	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Load_Data.script
+2016-06-02 19:31:10.010 +0100	Log		Finding List"Things to do	2	on_findlist	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-02 19:31:24.024 +0100	Exception	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", SearchRectangle:(21,80,218,657), Text:<<"Things to do>>, TextDifference:"1", TextPlatform:"Generic OCR")	Unable To Find Any Image On Screen "(TEXT:""Things to do")" within 8.00 seconds	4	on_findlist	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-02 19:31:24.024 +0100	Log		finished finding list	9	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Load_Data.script
+2016-06-02 19:31:24.024 +0100	Log		list exist	14	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Load_Data.script
+2016-06-02 19:31:24.024 +0100	Log		Finding List"Things to do	2	on_findlist	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-02 19:31:42.042 +0100	Exception	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", SearchRectangle:(21,80,218,657), Text:<<"Things to do>>, TextDifference:"1", TextPlatform:"Generic OCR")	Unable To Find Any Image On Screen "(TEXT:""Things to do")" within 8.00 seconds	4	on_findlist	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-02 19:31:42.042 +0100	Log		finished finding list	9	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Load_Data.script
+2016-06-02 19:31:42.042 +0100	Log		list exist	14	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Load_Data.script
+2016-06-02 19:31:42.042 +0100	Log		Finding List"Things to do	2	on_findlist	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-02 19:33:09.009 +0100	Exception	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", SearchRectangle:(21,80,218,657), Text:<<"Things to do>>, TextDifference:"1", TextPlatform:"Generic OCR")	Unable To Find Any Image On Screen "(TEXT:""Things to do")" within 8.00 seconds	4	on_findlist	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-02 19:33:10.010 +0100	EndTestCase		(Duration:"175.125", Errors:"1", Exceptions:"4", StartTime:"2016-06-02 19:30:15 +0100", Successes:"0", TestCase:"_Test6 ReadFile.script", Warnings:"0")
+2016-06-02 19:33:10.010 +0100	ABORTED		Execution Time 0:02:55 _Test6 ReadFile.script

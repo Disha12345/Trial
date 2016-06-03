@@ -1,0 +1,3 @@
+﻿2016-06-03 06:49:15.015 +0100	START		Running _Test6 ReadFile.script
+2016-06-03 06:49:15.015 +0100	EndTestCase		(Duration:"0.375", Errors:"1", Exceptions:"0", StartTime:"2016-06-03 06:49:15 +0100", Successes:"0", TestCase:"_Test6 ReadFile.script", Warnings:"0")
+2016-06-03 06:49:16.016 +0100	FAILURE	Screen_Error.png	SenseTalk Compiler Exception in read:\nSyntax Error at line 19: Syntax Error - can't understand "if" at or near character 458 -- Execution Time 0:00:00 _Test6 ReadFile.script

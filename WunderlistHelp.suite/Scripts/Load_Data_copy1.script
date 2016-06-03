@@ -1,0 +1,36 @@
+﻿to read readfile
+	//to load file
+	put file"C:\Users\disha.biju\Desktop\Sampletest.csv" into datafile
+	
+	Repeat with each line data in datafile
+		put data
+		put the first item of data into list
+		put the second item of data into todo
+		put items 3 to -1 of data into subtask
+		log list
+		log todo
+		log subtask
+		Repeat with each item of list
+			get list.findlist1 (list,status)
+			log status
+			if status equals "proceed"
+				list.listmethod list
+			else
+				log "matchfound"
+			end if
+			
+			Repeat with each item of todo
+				//Todo.find todo
+				//	if todovar equals 1
+				Todo.create todo
+				//	else
+				//		log "matach todo found"
+				//	end if
+				
+				Repeat with each item of subtask
+					Todo.createsubtask subtask		
+				End Repeat
+End Repeat
+End Repeat
+End Repeat
+end read

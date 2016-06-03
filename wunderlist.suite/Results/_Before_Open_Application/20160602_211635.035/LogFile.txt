@@ -1,0 +1,4 @@
+﻿2016-06-02 21:16:35.035 +0100	START		Running _Before_Open_Application.script
+2016-06-02 21:16:36.036 +0100	Exception	Wunderlisticon/WunderlistIcon_New	Could Not Open Image: Wunderlisticon/WunderlistIcon_New	1	on__before_open_application	_Before_Open_Application.script
+2016-06-02 21:16:36.036 +0100	EndTestCase		(Duration:"0.516", Errors:"1", Exceptions:"1", StartTime:"2016-06-02 21:16:35 +0100", Successes:"0", TestCase:"_Before_Open_Application.script", Warnings:"0")
+2016-06-02 21:16:36.036 +0100	FAILURE	Screen_Error.png	File Not Found doubleclick Error - Could Not Open Image: Wunderlisticon/WunderlistIcon_New -- Execution Time 0:00:01 _Before_Open_Application.script

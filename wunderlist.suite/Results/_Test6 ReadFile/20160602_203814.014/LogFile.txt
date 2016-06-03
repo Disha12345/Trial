@@ -1,0 +1,3 @@
+﻿2016-06-02 20:38:14.014 +0100	START		Running _Test6 ReadFile.script
+2016-06-02 20:38:15.015 +0100	EndTestCase		(Duration:"0.657", Errors:"1", Exceptions:"0", StartTime:"2016-06-02 20:38:14 +0100", Successes:"0", TestCase:"_Test6 ReadFile.script", Warnings:"0")
+2016-06-02 20:38:15.015 +0100	ABORTED		Execution Time 0:00:01 _Test6 ReadFile.script

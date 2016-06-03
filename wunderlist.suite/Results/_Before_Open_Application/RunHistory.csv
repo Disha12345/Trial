@@ -1,0 +1,2 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2016-06-02 21:16:35.035 +0100,"Failure",0:00:00,1,0,1,"20160602_211635.035/LogFile.txt","","File Not Found -- doubleclick Error - Could Not Open Image: Wunderlisticon/WunderlistIcon_New",0

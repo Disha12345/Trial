@@ -1,0 +1,5 @@
+﻿2016-06-02 19:15:58.058 +0100	START		Running _Test6 ReadFile.script
+2016-06-02 19:15:58.058 +0100	Log		Finding List"Things to do	2	on_findlist	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-02 19:16:20.020 +0100	Exception	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", SearchRectangle:(21,80,218,657), Text:<<"Things to do>>, TextDifference:"1", TextPlatform:"Generic OCR")	Unable To Find Any Image On Screen "(TEXT:""Things to do")" within 8.00 seconds	4	on_findlist	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-02 19:16:21.021 +0100	EndTestCase		(Duration:"22.496", Errors:"1", Exceptions:"1", StartTime:"2016-06-02 19:15:58 +0100", Successes:"0", TestCase:"_Test6 ReadFile.script", Warnings:"0")
+2016-06-02 19:16:21.021 +0100	FAILURE	Screen_Error.png	Image Not Found waitfor Error - Unable To Find Any Image On Screen "(TEXT:""Things to do")" within 8.00 seconds  Restricted Search Rectangle ((21,80),(218,657))\n -- Execution Time 0:00:23 _Test6 ReadFile.script

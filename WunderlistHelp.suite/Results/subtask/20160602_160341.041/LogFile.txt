@@ -1,0 +1,5 @@
+﻿2016-06-02 16:03:41.041 +0100	START		Running subtask.script
+2016-06-02 16:03:41.041 +0100	doubleclick	Shopping	at (364, 165)	1	on_subtask	subtask.script
+2016-06-02 16:04:07.007 +0100	Exception	Addasubtask_1	No Image Found On Screen: "Addasubtask_1"	2	on_subtask	subtask.script
+2016-06-02 16:04:07.007 +0100	EndTestCase		(Duration:"25.914", Errors:"1", Exceptions:"1", StartTime:"2016-06-02 16:03:41 +0100", Successes:"0", TestCase:"subtask.script", Warnings:"0")
+2016-06-02 16:04:07.007 +0100	FAILURE	Screen_Error.png	Image Not Found click Error - No Image Found On Screen: "Addasubtask_1" -- Execution Time 0:00:26 subtask.script

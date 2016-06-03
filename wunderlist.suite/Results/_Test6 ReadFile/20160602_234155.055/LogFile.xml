@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="_Test6 ReadFile.script" package="wunderlist.suite" timestamp="2016-06-02 23:41:55.055 +0100"
+ tests="1" successes="1" errors="0" time="74.826000">
+  <properties>
+   <property name="RunDate" value="2016-06-02 23:41:55.055 +0100"/>
+   <property name="Status" value="Success"/>
+  </properties>
+  <testcase name="_Test6 ReadFile.script" assertions="1" successes="1" errors="0" time="74.794">
+  </testcase>
+ </testsuite>
+</testsuites>

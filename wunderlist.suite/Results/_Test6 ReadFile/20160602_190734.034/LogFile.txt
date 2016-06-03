@@ -1,0 +1,28 @@
+﻿2016-06-02 19:07:34.034 +0100	START		Running _Test6 ReadFile.script
+2016-06-02 19:07:35.035 +0100	Log		Finding List"Things to do	2	on_findlist	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-02 19:07:35.035 +0100	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(82,215), ImageRectangle:(40,208,124,222), Language:"English", SearchRectangle:(21,80,218,657), Text:<<"Things to do>>, TextDifference:"1", TextPlatform:"Generic OCR")	found at (82, 215)	4	on_findlist	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-02 19:07:35.035 +0100	LogSuccess		list found"Things to do	6	on_findlist	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-02 19:07:36.036 +0100	Log		list exist	10	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Load_Data.script
+2016-06-02 19:07:36.036 +0100	Log		Finding List"Things to do	2	on_findlist	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-02 19:07:37.037 +0100	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(82,215), ImageRectangle:(40,208,124,222), Language:"English", SearchRectangle:(21,80,218,657), Text:<<"Things to do>>, TextDifference:"1", TextPlatform:"Generic OCR")	found at (82, 215)	4	on_findlist	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-02 19:07:37.037 +0100	LogSuccess		list found"Things to do	6	on_findlist	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-02 19:07:37.037 +0100	Log		list exist	10	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Load_Data.script
+2016-06-02 19:07:37.037 +0100	Log		Finding List"Things to do	2	on_findlist	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-02 19:07:38.038 +0100	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(82,215), ImageRectangle:(40,208,124,222), Language:"English", SearchRectangle:(21,80,218,657), Text:<<"Things to do>>, TextDifference:"1", TextPlatform:"Generic OCR")	found at (82, 215)	4	on_findlist	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-02 19:07:38.038 +0100	LogSuccess		list found"Things to do	6	on_findlist	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-02 19:07:38.038 +0100	Log		list exist	10	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Load_Data.script
+2016-06-02 19:07:38.038 +0100	Log		Finding List"Things to do	2	on_findlist	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-02 19:07:39.039 +0100	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(82,215), ImageRectangle:(40,208,124,222), Language:"English", SearchRectangle:(21,80,218,657), Text:<<"Things to do>>, TextDifference:"1", TextPlatform:"Generic OCR")	found at (82, 215)	4	on_findlist	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-02 19:07:39.039 +0100	LogSuccess		list found"Things to do	6	on_findlist	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-02 19:07:39.039 +0100	Log		list exist	10	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Load_Data.script
+2016-06-02 19:07:39.039 +0100	Log		Finding List"Things to do	2	on_findlist	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-02 19:07:40.040 +0100	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(82,215), ImageRectangle:(40,208,124,222), Language:"English", SearchRectangle:(21,80,218,657), Text:<<"Things to do>>, TextDifference:"1", TextPlatform:"Generic OCR")	found at (82, 215)	4	on_findlist	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-02 19:07:40.040 +0100	LogSuccess		list found"Things to do	6	on_findlist	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-02 19:07:41.041 +0100	Log		list exist	10	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Load_Data.script
+2016-06-02 19:07:41.041 +0100	Log		Finding List"Things to do	2	on_findlist	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-02 19:07:42.042 +0100	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(82,215), ImageRectangle:(40,208,124,222), Language:"English", SearchRectangle:(21,80,218,657), Text:<<"Things to do>>, TextDifference:"1", TextPlatform:"Generic OCR")	found at (82, 215)	4	on_findlist	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-02 19:07:42.042 +0100	LogSuccess		list found"Things to do	6	on_findlist	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-02 19:07:42.042 +0100	Log		list exist	10	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Load_Data.script
+2016-06-02 19:07:42.042 +0100	Log		Finding List"Recipes	2	on_findlist	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-02 19:10:53.053 +0100	EndTestCase		(Duration:"198.7", Errors:"1", Exceptions:"0", StartTime:"2016-06-02 19:07:34 +0100", Successes:"6", TestCase:"_Test6 ReadFile.script", Warnings:"0")
+2016-06-02 19:10:53.053 +0100	ABORTED		Execution Time 0:03:19 _Test6 ReadFile.script

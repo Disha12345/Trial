@@ -1,0 +1,5 @@
+﻿2016-06-02 21:57:39.039 +0100	START		Running _Test5 Create Todo sync.script
+2016-06-02 21:57:39.039 +0100	click	Todos/image0001	at (315, 76)	3	on_create	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-02 21:57:40.040 +0100	typetext		New Todo[return]	4	on_create	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-02 21:58:20.020 +0100	EndTestCase		(Duration:"41.736", Errors:"1", Exceptions:"0", StartTime:"2016-06-02 21:57:39 +0100", Successes:"0", TestCase:"_Test5 Create Todo sync.script", Warnings:"0")
+2016-06-02 21:58:20.020 +0100	ABORTED		Execution Time 0:00:41 _Test5 Create Todo sync.script

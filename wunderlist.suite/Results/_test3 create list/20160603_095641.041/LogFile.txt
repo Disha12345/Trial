@@ -1,0 +1,6 @@
+﻿2016-06-03 09:56:41.041 +0100	START		Running _test3 create list.script
+2016-06-03 09:56:43.043 +0100	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(47,244), ImageRectangle:(21,80,73,409), Language:"English", SearchRectangle:(21,80,218,657), Text:"disha1", TextDifference:"1", TextPlatform:"Generic OCR")	found at (47, 244)	4	on_findlist	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/List.script
+2016-06-03 09:56:43.043 +0100	LogSuccess		list founddisha1	5	on_findlist	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/List.script
+2016-06-03 09:56:43.043 +0100	Log		status	4	on__test3_create_list	_test3 create list.script
+2016-06-03 09:56:43.043 +0100	EndTestCase		(Duration:"1.953", Errors:"0", Exceptions:"0", StartTime:"2016-06-03 09:56:41 +0100", Successes:"1", TestCase:"_test3 create list.script", Warnings:"0")
+2016-06-03 09:56:44.044 +0100	SUCCESS		Execution Time 0:00:02 _test3 create list.script

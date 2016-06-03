@@ -1,0 +1,70 @@
+﻿2016-06-03 01:16:58.058 +0100	START		Running _Test6 ReadFile.script
+2016-06-03 01:16:58.058 +0100	Log		"Things to do	10	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Load_Data.script
+2016-06-03 01:16:58.058 +0100	Log		Shopping	11	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Load_Data.script
+2016-06-03 01:16:58.058 +0100	Log		Milk"	12	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Load_Data.script
+2016-06-03 01:16:58.058 +0100	Log		Finding List"Things to do	3	on_findlist	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/List.script
+2016-06-03 01:16:58.058 +0100	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(82,177), ImageRectangle:(40,170,124,184), Language:"English", SearchRectangle:(21,80,218,657), Text:<<"Things to do>>, TextDifference:"1", TextPlatform:"Generic OCR")	found at (82, 177)	5	on_findlist	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/List.script
+2016-06-03 01:16:58.058 +0100	Log		matchfound	18	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Load_Data.script
+2016-06-03 01:16:59.059 +0100	click	Addatodo	at (378, 105)	3	on_create	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 01:17:00.000 +0100	typetext		Shopping[return]	4	on_create	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 01:17:01.001 +0100	doubleclick	Shopping	at (364, 163)	2	on_createsubtask	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 01:17:02.002 +0100	click	Addasubtask_1	at (739, 195)	3	on_createsubtask	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 01:17:03.003 +0100	typetext		Milk"[return]	4	on_createsubtask	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 01:17:03.003 +0100	Log		"Things to do	10	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Load_Data.script
+2016-06-03 01:17:03.003 +0100	Log		Shopping	11	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Load_Data.script
+2016-06-03 01:17:03.003 +0100	Log		Eggs"	12	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Load_Data.script
+2016-06-03 01:17:03.003 +0100	Log		Finding List"Things to do	3	on_findlist	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/List.script
+2016-06-03 01:17:05.005 +0100	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(82,177), ImageRectangle:(40,170,124,184), Language:"English", SearchRectangle:(21,80,218,657), Text:<<"Things to do>>, TextDifference:"1", TextPlatform:"Generic OCR")	found at (82, 177)	5	on_findlist	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/List.script
+2016-06-03 01:17:05.005 +0100	Log		matchfound	18	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Load_Data.script
+2016-06-03 01:17:05.005 +0100	click	Addatodo	at (378, 105)	3	on_create	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 01:17:06.006 +0100	typetext		Shopping[return]	4	on_create	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 01:17:08.008 +0100	doubleclick	Shopping	at (364, 164)	2	on_createsubtask	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 01:17:09.009 +0100	click	Addasubtask_1	at (620, 328)	3	on_createsubtask	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 01:17:10.010 +0100	typetext		Eggs"[return]	4	on_createsubtask	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 01:17:10.010 +0100	Log		"Things to do	10	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Load_Data.script
+2016-06-03 01:17:10.010 +0100	Log		Shopping	11	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Load_Data.script
+2016-06-03 01:17:10.010 +0100	Log		Butter"	12	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Load_Data.script
+2016-06-03 01:17:10.010 +0100	Log		Finding List"Things to do	3	on_findlist	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/List.script
+2016-06-03 01:17:11.011 +0100	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(82,177), ImageRectangle:(40,170,124,184), Language:"English", SearchRectangle:(21,80,218,657), Text:<<"Things to do>>, TextDifference:"1", TextPlatform:"Generic OCR")	found at (82, 177)	5	on_findlist	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/List.script
+2016-06-03 01:17:12.012 +0100	Log		matchfound	18	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Load_Data.script
+2016-06-03 01:17:12.012 +0100	click	Addatodo	at (378, 105)	3	on_create	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 01:17:13.013 +0100	typetext		Shopping[return]	4	on_create	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 01:17:14.014 +0100	doubleclick	Shopping	at (364, 164)	2	on_createsubtask	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 01:17:16.016 +0100	click	Addasubtask_1	at (737, 195)	3	on_createsubtask	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 01:17:17.017 +0100	typetext		Butter"[return]	4	on_createsubtask	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 01:17:17.017 +0100	Log		"Things to do	10	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Load_Data.script
+2016-06-03 01:17:17.017 +0100	Log		Pick up kids"	11	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Load_Data.script
+2016-06-03 01:17:17.017 +0100	Log			12	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Load_Data.script
+2016-06-03 01:17:17.017 +0100	Log		Finding List"Things to do	3	on_findlist	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/List.script
+2016-06-03 01:17:18.018 +0100	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(82,177), ImageRectangle:(40,170,124,184), Language:"English", SearchRectangle:(21,80,218,657), Text:<<"Things to do>>, TextDifference:"1", TextPlatform:"Generic OCR")	found at (82, 177)	5	on_findlist	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/List.script
+2016-06-03 01:17:18.018 +0100	Log		matchfound	18	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Load_Data.script
+2016-06-03 01:17:18.018 +0100	click	Addatodo	at (378, 105)	3	on_create	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 01:17:19.019 +0100	typetext		Pick up kids"[return]	4	on_create	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 01:17:20.020 +0100	Log		"Things to do	10	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Load_Data.script
+2016-06-03 01:17:20.020 +0100	Log		Cleaning	11	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Load_Data.script
+2016-06-03 01:17:20.020 +0100	Log		Hoover"	12	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Load_Data.script
+2016-06-03 01:17:20.020 +0100	Log		Finding List"Things to do	3	on_findlist	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/List.script
+2016-06-03 01:17:21.021 +0100	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(82,177), ImageRectangle:(40,170,124,184), Language:"English", SearchRectangle:(21,80,218,657), Text:<<"Things to do>>, TextDifference:"1", TextPlatform:"Generic OCR")	found at (82, 177)	5	on_findlist	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/List.script
+2016-06-03 01:17:21.021 +0100	Log		matchfound	18	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Load_Data.script
+2016-06-03 01:17:21.021 +0100	click	Addatodo	at (378, 105)	3	on_create	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 01:17:22.022 +0100	typetext		Cleaning[return]	4	on_create	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 01:17:24.024 +0100	doubleclick	Shopping	at (364, 164)	2	on_createsubtask	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 01:17:25.025 +0100	click	Addasubtask_1	at (620, 328)	3	on_createsubtask	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 01:17:27.027 +0100	typetext		Hoover"[return]	4	on_createsubtask	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 01:17:27.027 +0100	Log		"Things to do	10	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Load_Data.script
+2016-06-03 01:17:27.027 +0100	Log		Cleaning	11	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Load_Data.script
+2016-06-03 01:17:27.027 +0100	Log		Dust"	12	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Load_Data.script
+2016-06-03 01:17:27.027 +0100	Log		Finding List"Things to do	3	on_findlist	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/List.script
+2016-06-03 01:17:28.028 +0100	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(82,177), ImageRectangle:(40,170,124,184), Language:"English", SearchRectangle:(21,80,218,657), Text:<<"Things to do>>, TextDifference:"1", TextPlatform:"Generic OCR")	found at (82, 177)	5	on_findlist	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/List.script
+2016-06-03 01:17:28.028 +0100	Log		matchfound	18	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Load_Data.script
+2016-06-03 01:17:28.028 +0100	click	Addatodo	at (378, 105)	3	on_create	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 01:17:29.029 +0100	typetext		Cleaning[return]	4	on_create	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 01:17:30.030 +0100	doubleclick	Shopping	at (364, 164)	2	on_createsubtask	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 01:17:32.032 +0100	click	Addasubtask_1	at (833, 227)	3	on_createsubtask	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 01:17:33.033 +0100	typetext		Dust"[return]	4	on_createsubtask	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 01:17:33.033 +0100	Log		"Recipes	10	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Load_Data.script
+2016-06-03 01:17:33.033 +0100	Log		Bread	11	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Load_Data.script
+2016-06-03 01:17:33.033 +0100	Log		Flour"	12	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Load_Data.script
+2016-06-03 01:17:33.033 +0100	Log		Finding List"Recipes	3	on_findlist	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/List.script
+2016-06-03 01:17:51.051 +0100	EndTestCase		(Duration:"53.265", Errors:"1", Exceptions:"0", StartTime:"2016-06-03 01:16:58 +0100", Successes:"0", TestCase:"_Test6 ReadFile.script", Warnings:"0")
+2016-06-03 01:17:51.051 +0100	ABORTED		Execution Time 0:00:53 _Test6 ReadFile.script

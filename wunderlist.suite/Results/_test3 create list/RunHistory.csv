@@ -1,0 +1,76 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2016-05-31 12:13:04.004 +0100,"Failure",0:00:00,1,0,0,"20160531_121304.004/LogFile.txt","","STUnknownMessage -- ERROR: No Such Command: 'create_list'",0
+2016-05-31 12:13:19.019 +0100,"Success",0:00:03,0,0,0,"20160531_121319.019/LogFile.txt","","",1
+2016-05-31 12:20:19.019 +0100,"Running",0:00:00,0,0,0,"20160531_122019.019/LogFile.txt","","",0
+2016-05-31 12:20:57.057 +0100,"Running",0:00:00,0,0,0,"20160531_122057.057/LogFile.txt","","",0
+2016-05-31 12:21:34.034 +0100,"Running",0:00:00,0,0,0,"20160531_122134.034/LogFile.txt","","",0
+2016-05-31 12:22:14.014 +0100,"Running",0:00:00,0,0,0,"20160531_122214.014/LogFile.txt","","",0
+2016-05-31 12:22:35.035 +0100,"Running",0:00:00,0,0,0,"20160531_122235.035/LogFile.txt","","",0
+2016-05-31 12:22:45.045 +0100,"Running",0:00:00,0,0,0,"20160531_122245.045/LogFile.txt","","",0
+2016-05-31 12:23:31.031 +0100,"Running",0:00:00,0,0,0,"20160531_122331.031/LogFile.txt","","",0
+2016-05-31 12:23:55.055 +0100,"Running",0:00:00,0,0,0,"20160531_122355.055/LogFile.txt","","",0
+2016-05-31 12:24:40.040 +0100,"Failure",0:00:53,1,0,1,"20160531_122440.040/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""image0001/Save/Save.png""",0
+2016-05-31 12:28:38.038 +0100,"Success",0:00:03,0,0,0,"20160531_122838.038/LogFile.txt","","",1
+2016-05-31 12:30:52.052 +0100,"Success",0:00:05,0,0,0,"20160531_123052.052/LogFile.txt","","",1
+2016-05-31 12:54:44.044 +0100,"Success",0:00:13,0,0,0,"20160531_125444.044/LogFile.txt","","",1
+2016-05-31 13:10:39.039 +0100,"Running",0:00:00,0,0,0,"20160531_131039.039/LogFile.txt","","",0
+2016-05-31 13:12:01.001 +0100,"Failure",0:00:26,1,0,1,"20160531_131201.001/LogFile.txt","","Image Not Found -- waitfor Error - Unable To Find Any Image On Screen ""(TEXT:""hello1"")"" within 8.00 seconds",0
+2016-05-31 13:12:55.055 +0100,"Failure",0:00:57,1,0,1,"20160531_131255.055/LogFile.txt","","Image Not Found -- waitfor Error - Unable To Find Any Image On Screen ""(TEXT:""hello1"")"" within 8.00 seconds",0
+2016-05-31 13:14:23.023 +0100,"Running",0:00:00,0,0,0,"20160531_131423.023/LogFile.txt","","",0
+2016-05-31 13:15:32.032 +0100,"Success",0:00:05,0,0,0,"20160531_131532.032/LogFile.txt","","",1
+2016-05-31 13:16:51.051 +0100,"Success",0:00:05,0,0,0,"20160531_131651.051/LogFile.txt","","",1
+2016-06-01 10:42:59.059 +0100,"Failure",0:00:00,1,0,0,"20160601_104259.059/LogFile.txt","","STUnknownMessage -- ERROR: No Such Command: 'create_list'",0
+2016-06-01 10:44:39.039 +0100,"Failure",0:00:00,1,0,0,"20160601_104439.039/LogFile.txt","","STUnknownMessage -- ERROR: No Such Command: 'create_list'",0
+2016-06-01 10:46:50.050 +0100,"Failure",0:00:00,1,0,0,"20160601_104650.050/LogFile.txt","","STUnknownMessage -- ERROR: No Such Command: 'create_list'",0
+2016-06-01 10:49:19.019 +0100,"Failure",0:00:00,1,0,0,"20160601_104919.019/LogFile.txt","","STUnknownMessage -- ERROR: No Such Command: 'create_list'",0
+2016-06-01 10:53:03.003 +0100,"Success",0:00:05,0,0,0,"20160601_105303.003/LogFile.txt","","",1
+2016-06-01 10:55:12.012 +0100,"Success",0:00:06,0,0,0,"20160601_105512.012/LogFile.txt","","",1
+2016-06-01 11:05:59.059 +0100,"Success",0:00:05,0,0,0,"20160601_110559.059/LogFile.txt","","",1
+2016-06-01 11:17:31.031 +0100,"Success",0:00:04,0,0,0,"20160601_111731.031/LogFile.txt","","",1
+2016-06-01 11:25:25.025 +0100,"Success",0:00:04,0,0,0,"20160601_112525.025/LogFile.txt","","",1
+2016-06-01 11:39:13.013 +0100,"Success",0:00:04,0,0,0,"20160601_113913.013/LogFile.txt","","",1
+2016-06-01 13:09:21.021 +0100,"Success",0:00:04,0,0,0,"20160601_130921.021/LogFile.txt","","",1
+2016-06-02 22:15:57.057 +0100,"Success",0:00:05,0,0,0,"20160602_221557.057/LogFile.txt","","",1
+2016-06-03 07:50:21.021 +0100,"Running",0:00:00,0,0,0,"20160603_075021.021/LogFile.txt","","",0
+2016-06-03 07:51:43.043 +0100,"Failure",0:01:39,1,0,0,"20160603_075143.043/LogFile.txt","","STUnknownMessage -- ERROR: No Such Command: 'findlist1'",0
+2016-06-03 07:54:01.001 +0100,"Failure",0:00:08,1,0,0,"20160603_075401.001/LogFile.txt","","STUnknownMessage -- ERROR: No Such Function: 'findlist1'",0
+2016-06-03 07:55:29.029 +0100,"Failure",0:00:08,1,0,0,"20160603_075529.029/LogFile.txt","","STUnknownMessage -- ERROR: No Such Function: 'findlist1'",0
+2016-06-03 07:57:05.005 +0100,"Failure",0:00:11,1,0,0,"20160603_075705.005/LogFile.txt","","STUnknownMessage -- ERROR: No Such Function: 'findlist1'",0
+2016-06-03 07:58:51.051 +0100,"Failure",0:00:10,1,0,1,"20160603_075851.051/LogFile.txt","","Image Not Found -- waitfor Error - Image Property List did not contain ""ImageName"" property",0
+2016-06-03 08:01:04.004 +0100,"Failure",0:00:01,1,0,0,"20160603_080104.004/LogFile.txt","","STInvalidBoolean -- Value 'mynewlist1' is not TRUE, FALSE, YES, NO, ON, OFF or empty",0
+2016-06-03 08:01:43.043 +0100,"Failure",0:00:01,1,0,0,"20160603_080143.043/LogFile.txt","","InvalidCommandOrRange -- Not a valid command, or incorrect types given for a range (not numbers, date/times, or characters)",0
+2016-06-03 08:03:13.013 +0100,"Success",0:00:01,0,0,0,"20160603_080313.013/LogFile.txt","","",1
+2016-06-03 08:05:06.006 +0100,"Success",0:00:01,0,0,0,"20160603_080506.006/LogFile.txt","","",1
+2016-06-03 08:05:45.045 +0100,"Success",0:00:01,0,0,0,"20160603_080545.045/LogFile.txt","","",1
+2016-06-03 08:11:04.004 +0100,"Failure",0:00:00,1,0,0,"20160603_081104.004/LogFile.txt","","SRUN_BadValue -- Bad value for Object expression.  Looking for an object or script identifier, got 'get'.",0
+2016-06-03 08:11:57.057 +0100,"Failure",0:00:00,1,0,0,"20160603_081157.057/LogFile.txt","","STUnknownMessage -- ERROR: No Such Command: 'findlist1'",0
+2016-06-03 08:13:38.038 +0100,"Failure",0:00:00,1,0,0,"20160603_081338.038/LogFile.txt","","STUnknownMessage -- ERROR: No Such Command: 'findlist1'",0
+2016-06-03 08:15:24.024 +0100,"Failure",0:00:00,1,0,0,"20160603_081524.024/LogFile.txt","","STUnknownMessage -- ERROR: No Such Function: 'findlist1'",0
+2016-06-03 08:16:35.035 +0100,"Failure",0:00:00,1,0,0,"20160603_081635.035/LogFile.txt","","STUnknownMessage -- ERROR: No Such Command: 'findlistlist'",0
+2016-06-03 08:16:49.049 +0100,"Success",0:00:01,0,0,0,"20160603_081649.049/LogFile.txt","","",1
+2016-06-03 08:17:16.016 +0100,"Running",0:00:00,0,0,0,"20160603_081716.016/LogFile.txt","","",0
+2016-06-03 08:18:39.039 +0100,"Failure",0:00:12,1,0,1,"20160603_081839.039/LogFile.txt","","Image Not Found -- waitfor Error - Unable To Find Any Image On Screen ""(TEXT:""disha"")"" within 8.00 seconds  Restricted Search Rectangle ((21,80),(218,657))\n",0
+2016-06-03 08:21:19.019 +0100,"Failure",0:00:24,1,0,1,"20160603_082119.019/LogFile.txt","","Image Not Found -- waitfor Error - Unable To Find Any Image On Screen ""(TEXT:""disha"")"" within 8.00 seconds  Restricted Search Rectangle ((21,80),(218,657))\n",0
+2016-06-03 08:21:59.059 +0100,"Running",0:00:00,0,0,0,"20160603_082159.059/LogFile.txt","","",0
+2016-06-03 08:25:01.001 +0100,"Failure",0:00:18,1,0,1,"20160603_082501.001/LogFile.txt","","Image Not Found -- waitfor Error - Unable To Find Any Image On Screen ""(TEXT:""disha"")"" within 8.00 seconds  Restricted Search Rectangle ((21,80),(218,657))\n",0
+2016-06-03 08:46:01.001 +0100,"Success",0:00:00,0,0,0,"20160603_084601.001/LogFile.txt","","",1
+2016-06-03 08:47:01.001 +0100,"Success",0:00:00,0,0,0,"20160603_084701.001/LogFile.txt","","",1
+2016-06-03 08:49:52.052 +0100,"Success",0:00:00,0,0,0,"20160603_084952.052/LogFile.txt","","",1
+2016-06-03 08:50:32.032 +0100,"Running",0:00:00,0,0,0,"20160603_085032.032/LogFile.txt","","",0
+2016-06-03 08:52:33.033 +0100,"Failure",0:00:17,1,0,1,"20160603_085233.033/LogFile.txt","","Image Not Found -- waitfor Error - Unable To Find Any Image On Screen ""(TEXT:""disha"")"" within 8.00 seconds  Restricted Search Rectangle ((21,80),(218,657))\n",0
+2016-06-03 08:57:15.015 +0100,"Running",0:00:00,0,0,0,"20160603_085715.015/LogFile.txt","","",0
+2016-06-03 08:59:22.022 +0100,"Running",0:00:00,0,0,0,"20160603_085922.022/LogFile.txt","","",0
+2016-06-03 09:01:33.033 +0100,"Running",0:00:00,0,0,0,"20160603_090133.033/LogFile.txt","","",0
+2016-06-03 09:02:36.036 +0100,"Running",0:00:00,0,0,0,"20160603_090236.036/LogFile.txt","","",0
+2016-06-03 09:03:31.031 +0100,"Running",0:00:00,0,0,0,"20160603_090331.031/LogFile.txt","","",0
+2016-06-03 09:08:01.001 +0100,"Failure",0:00:00,1,0,1,"20160603_090801.001/LogFile.txt","","Error Running Script Command -- waitfor Error - Too Few Parameters, please use waitfor time, image1[, imageX]",0
+2016-06-03 09:08:45.045 +0100,"Failure",0:00:00,1,0,1,"20160603_090845.045/LogFile.txt","","Error Running Script Command -- waitfor Error - Too Few Parameters, please use waitfor time, image1[, imageX]",0
+2016-06-03 09:09:28.028 +0100,"Running",0:00:00,0,0,0,"20160603_090928.028/LogFile.txt","","",0
+2016-06-03 09:10:30.030 +0100,"Success",0:00:00,0,0,0,"20160603_091030.030/LogFile.txt","","",1
+2016-06-03 09:13:24.024 +0100,"Success",0:00:00,0,0,0,"20160603_091324.024/LogFile.txt","","",1
+2016-06-03 09:14:44.044 +0100,"Success",0:00:00,0,0,0,"20160603_091444.044/LogFile.txt","","",1
+2016-06-03 09:20:34.034 +0100,"Running",0:00:00,0,0,0,"20160603_092034.034/LogFile.txt","","",0
+2016-06-03 09:21:46.046 +0100,"Success",0:00:13,0,0,0,"20160603_092146.046/LogFile.txt","","",1
+2016-06-03 09:55:58.058 +0100,"Success",0:00:01,0,0,0,"20160603_095558.058/LogFile.txt","","",1
+2016-06-03 09:56:41.041 +0100,"Success",0:00:01,0,0,0,"20160603_095641.041/LogFile.txt","","",1
+2016-06-03 10:16:35.035 +0100,"Failure",0:00:00,1,0,0,"20160603_101635.035/LogFile.txt","","STUnknownMessage -- ERROR: No Such Command: 'findlist1'",0

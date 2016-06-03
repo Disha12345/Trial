@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Load_Data_copy1">
+ <run>
+  <RunDate>2016-06-03 01:41:07.007 +0100</RunDate>
+  <Status>Success</Status>
+  <Duration>0.032000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160603_014107.007/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

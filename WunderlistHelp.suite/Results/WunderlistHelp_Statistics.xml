@@ -1,0 +1,51 @@
+﻿<?xml version="1.0"?>
+<statistics>
+ <script name="List">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2016-06-03 09:02:26 +0100</FirstRun>
+  <LastRun>2016-06-03 09:02:26 +0100</LastRun>
+  <TotalTimeOnSuccess>0.031000</TotalTimeOnSuccess>
+ </script>
+ <script name="_Before open application">
+  <LastStatus>Failure</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>1</NumberOfFails>
+  <FirstRun>2016-06-02 14:12:25 +0100</FirstRun>
+  <LastRun>2016-06-02 14:12:25 +0100</LastRun>
+  <TotalTimeOnSuccess>0.000000</TotalTimeOnSuccess>
+ </script>
+ <script name="Todo">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>2</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2016-06-02 19:04:38 +0100</FirstRun>
+  <LastRun>2016-06-02 19:05:35 +0100</LastRun>
+  <TotalTimeOnSuccess>0.046000</TotalTimeOnSuccess>
+ </script>
+ <script name="Subtask">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2016-06-02 16:04:57 +0100</FirstRun>
+  <LastRun>2016-06-02 16:04:57 +0100</LastRun>
+  <TotalTimeOnSuccess>0.031000</TotalTimeOnSuccess>
+ </script>
+ <script name="Load_Data">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>3</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2016-06-02 15:07:51 +0100</FirstRun>
+  <LastRun>2016-06-02 19:43:18 +0100</LastRun>
+  <TotalTimeOnSuccess>0.063000</TotalTimeOnSuccess>
+ </script>
+ <script name="Load_Data_copy1">
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>1</NumberOfRuns>
+  <NumberOfFails>0</NumberOfFails>
+  <FirstRun>2016-06-03 01:41:07 +0100</FirstRun>
+  <LastRun>2016-06-03 01:41:07 +0100</LastRun>
+  <TotalTimeOnSuccess>0.032000</TotalTimeOnSuccess>
+ </script>
+</statistics>

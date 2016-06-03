@@ -1,0 +1,11 @@
+﻿2016-06-03 07:37:31.031 +0100	START		Running _Test6 ReadFile.script
+2016-06-03 07:37:31.031 +0100	Log		Baa	10	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Load_Data_copy1.script
+2016-06-03 07:37:31.031 +0100	Log		Black	11	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Load_Data_copy1.script
+2016-06-03 07:37:31.031 +0100	Log		Sheep,wool	12	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Load_Data_copy1.script
+2016-06-03 07:37:32.032 +0100	Log		Finding ListBaa	3	on_findlist	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/List.script
+2016-06-03 07:37:32.032 +0100	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(51,213), ImageRectangle:(40,208,63,219), Language:"English", SearchRectangle:(21,80,218,657), Text:"Baa", TextDifference:"1", TextPlatform:"Generic OCR")	found at (51, 213)	5	on_findlist	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/List.script
+2016-06-03 07:37:33.033 +0100	Log		matchfound	18	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Load_Data_copy1.script
+2016-06-03 07:37:33.033 +0100	click	Addatodo	at (378, 105)	3	on_create	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 07:37:34.034 +0100	typetext		Black[return]	4	on_create	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 07:38:06.006 +0100	EndTestCase		(Duration:"34.981", Errors:"1", Exceptions:"0", StartTime:"2016-06-03 07:37:31 +0100", Successes:"0", TestCase:"_Test6 ReadFile.script", Warnings:"0")
+2016-06-03 07:38:06.006 +0100	ABORTED		Execution Time 0:00:35 _Test6 ReadFile.script

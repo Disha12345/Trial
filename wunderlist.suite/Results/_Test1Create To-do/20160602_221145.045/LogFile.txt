@@ -1,0 +1,6 @@
+﻿2016-06-02 22:11:45.045 +0100	START		Running _Test1Create To-do.script
+2016-06-02 22:11:45.045 +0100	click	Todos/image0001	at (315, 76)	3	on_create	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-02 22:11:46.046 +0100	typetext		dddd[return]	4	on_create	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-02 22:11:59.059 +0100	Exception	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", SearchRectangle:(940,34,983,703), Text:"dddd", TextDifference:"1", TextPlatform:"Generic OCR")	Unable To Find Any Image On Screen "(TEXT:"dddd")" within 8.00 seconds	5	on_create	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-02 22:12:00.000 +0100	EndTestCase		(Duration:"15.012", Errors:"1", Exceptions:"1", StartTime:"2016-06-02 22:11:45 +0100", Successes:"0", TestCase:"_Test1Create To-do.script", Warnings:"0")
+2016-06-02 22:12:00.000 +0100	ABORTED		Execution Time 0:00:15 _Test1Create To-do.script

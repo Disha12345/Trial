@@ -1,0 +1,6 @@
+﻿2016-06-02 19:07:23.023 +0100	START		Running _Test6 ReadFile.script
+2016-06-02 19:07:23.023 +0100	Log		Finding List"Things to do	2	on_findlist	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-02 19:07:24.024 +0100	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(82,215), ImageRectangle:(40,208,124,222), Language:"English", SearchRectangle:(21,80,218,657), Text:<<"Things to do>>, TextDifference:"1", TextPlatform:"Generic OCR")	found at (82, 215)	4	on_findlist	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-02 19:07:24.024 +0100	LogSuccess		list found"Things to do	6	on_findlist	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-02 19:07:24.024 +0100	EndTestCase		(Duration:"1.829", Errors:"1", Exceptions:"0", StartTime:"2016-06-02 19:07:23 +0100", Successes:"1", TestCase:"_Test6 ReadFile.script", Warnings:"0")
+2016-06-02 19:07:25.025 +0100	FAILURE	Screen_Error.png	STInvalidBoolean Value '1' is not TRUE, FALSE, YES, NO, ON, OFF or empty -- Execution Time 0:00:01 _Test6 ReadFile.script

@@ -1,0 +1,9 @@
+﻿2016-06-02 23:05:16.016 +0100	START		Running _Test6 ReadFile.script
+2016-06-02 23:05:16.016 +0100	Log		Baa	10	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Load_Data.script
+2016-06-02 23:05:16.016 +0100	Log		Black	11	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Load_Data.script
+2016-06-02 23:05:16.016 +0100	Log		Sheep,wool	12	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Load_Data.script
+2016-06-02 23:05:35.035 +0100	doubleclick	Shopping	at (362, 164)	2	on_createsubtask	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-02 23:05:37.037 +0100	click	Addasubtask_1	at (400, 333)	3	on_createsubtask	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-02 23:05:38.038 +0100	typetext		subtodo[return]	4	on_createsubtask	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-02 23:06:14.014 +0100	EndTestCase		(Duration:"57.67", Errors:"1", Exceptions:"0", StartTime:"2016-06-02 23:05:16 +0100", Successes:"0", TestCase:"_Test6 ReadFile.script", Warnings:"0")
+2016-06-02 23:06:14.014 +0100	ABORTED		Execution Time 0:00:58 _Test6 ReadFile.script

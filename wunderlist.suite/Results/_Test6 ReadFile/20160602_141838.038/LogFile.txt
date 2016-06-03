@@ -1,0 +1,10 @@
+﻿2016-06-02 14:18:38.038 +0100	START		Running _Test6 ReadFile.script
+2016-06-02 14:18:38.038 +0100	click	Lists/Createlist	at (90, 672)	4	on_listmethod	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/List.script
+2016-06-02 14:18:40.040 +0100	click	Lists/ListName	at (427, 201)	5	on_listmethod	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/List.script
+2016-06-02 14:18:41.041 +0100	typetext		"Things to do	6	on_listmethod	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/List.script
+2016-06-02 14:18:42.042 +0100	click	Save	at (641, 405)	7	on_listmethod	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/List.script
+2016-06-02 14:18:54.054 +0100	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(384,202), ImageRectangle:(345,195,424,209), Language:"English", Text:<<"Things to do>>, TextDifference:"1", TextPlatform:"Generic OCR")	found at (384, 202)	8	on_listmethod	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/List.script
+2016-06-02 14:18:54.054 +0100	click	Todos/image0001	at (387, 140)	3	on_create	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-02 14:18:55.055 +0100	typetext		Shopping[return]	4	on_create	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-02 14:19:15.015 +0100	EndTestCase		(Duration:"37.101", Errors:"1", Exceptions:"0", StartTime:"2016-06-02 14:18:38 +0100", Successes:"0", TestCase:"_Test6 ReadFile.script", Warnings:"0")
+2016-06-02 14:19:15.015 +0100	FAILURE	Screen_Error.png	Image Not Found waitfor Error - Unable To Find Image: Todos/To do list bottom right -- Execution Time 0:00:37 _Test6 ReadFile.script

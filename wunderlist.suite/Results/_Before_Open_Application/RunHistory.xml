@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<runHistory script="_Before_Open_Application">
+ <run>
+  <RunDate>2016-06-02 21:16:35.035 +0100</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.562000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160602_211635.035/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>File Not Found -- doubleclick Error - Could Not Open Image: Wunderlisticon/WunderlistIcon_New</ErrorMessage>
+ </run>
+</runHistory>

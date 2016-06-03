@@ -1,0 +1,7 @@
+﻿2016-06-02 20:59:45.045 +0100	START		Running _Test6 ReadFile.script
+2016-06-02 20:59:46.046 +0100	Log		Baa	10	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Load_Data.script
+2016-06-02 20:59:46.046 +0100	Log		Lil	10	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Load_Data.script
+2016-06-02 20:59:46.046 +0100	Log		nxcmxn	10	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Load_Data.script
+2016-06-02 20:59:46.046 +0100	Log		Lil	10	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Load_Data.script
+2016-06-02 20:59:46.046 +0100	EndTestCase		(Duration:"0.687", Errors:"0", Exceptions:"0", StartTime:"2016-06-02 20:59:45 +0100", Successes:"1", TestCase:"_Test6 ReadFile.script", Warnings:"0")
+2016-06-02 20:59:46.046 +0100	SUCCESS		Execution Time 0:00:01 _Test6 ReadFile.script

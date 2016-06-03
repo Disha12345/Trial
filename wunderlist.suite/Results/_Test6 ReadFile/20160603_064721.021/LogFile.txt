@@ -1,0 +1,56 @@
+﻿2016-06-03 06:47:21.021 +0100	START		Running _Test6 ReadFile.script
+2016-06-03 06:47:21.021 +0100	Log		Baa	10	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Load_Data_copy1.script
+2016-06-03 06:47:21.021 +0100	Log		Black	11	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Load_Data_copy1.script
+2016-06-03 06:47:21.021 +0100	Log		Sheep,wool	12	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Load_Data_copy1.script
+2016-06-03 06:47:21.021 +0100	Log		matchfound	18	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Load_Data_copy1.script
+2016-06-03 06:47:21.021 +0100	Log		matach todo found	26	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Load_Data_copy1.script
+2016-06-03 06:47:22.022 +0100	doubleclick	Shopping	at (305, 189)	2	on_createsubtask	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 06:47:24.024 +0100	click	Addasubtask_1	at (620, 328)	3	on_createsubtask	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 06:47:25.025 +0100	typetext		Sheep,wool[return]	4	on_createsubtask	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 06:47:26.026 +0100	doubleclick	Shopping	at (305, 189)	2	on_createsubtask	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 06:47:28.028 +0100	click	Addasubtask_1	at (425, 334)	3	on_createsubtask	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 06:47:29.029 +0100	typetext		Sheep,wool[return]	4	on_createsubtask	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 06:47:29.029 +0100	Log		Lil	10	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Load_Data_copy1.script
+2016-06-03 06:47:29.029 +0100	Log		Bo	11	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Load_Data_copy1.script
+2016-06-03 06:47:29.029 +0100	Log		Beep,DDDD,sssss	12	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Load_Data_copy1.script
+2016-06-03 06:47:29.029 +0100	Log		matchfound	18	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Load_Data_copy1.script
+2016-06-03 06:47:29.029 +0100	Log		matach todo found	26	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Load_Data_copy1.script
+2016-06-03 06:47:31.031 +0100	doubleclick	Shopping	at (305, 189)	2	on_createsubtask	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 06:47:32.032 +0100	click	Addasubtask_1	at (620, 328)	3	on_createsubtask	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 06:47:34.034 +0100	typetext		Beep,DDDD,sssss[return]	4	on_createsubtask	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 06:47:35.035 +0100	doubleclick	Shopping	at (305, 189)	2	on_createsubtask	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 06:47:37.037 +0100	click	Addasubtask_1	at (620, 328)	3	on_createsubtask	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 06:47:39.039 +0100	typetext		Beep,DDDD,sssss[return]	4	on_createsubtask	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 06:47:40.040 +0100	doubleclick	Shopping	at (305, 189)	2	on_createsubtask	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 06:47:42.042 +0100	click	Addasubtask_1	at (620, 328)	3	on_createsubtask	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 06:47:44.044 +0100	typetext		Beep,DDDD,sssss[return]	4	on_createsubtask	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 06:47:44.044 +0100	Log		nxcmxn	10	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Load_Data_copy1.script
+2016-06-03 06:47:44.044 +0100	Log		cmxmd	11	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Load_Data_copy1.script
+2016-06-03 06:47:44.044 +0100	Log		skdmfkdf,sdssff,zzzzz	12	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Load_Data_copy1.script
+2016-06-03 06:47:44.044 +0100	Log		matchfound	18	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Load_Data_copy1.script
+2016-06-03 06:47:44.044 +0100	Log		matach todo found	26	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Load_Data_copy1.script
+2016-06-03 06:47:45.045 +0100	doubleclick	Shopping	at (305, 189)	2	on_createsubtask	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 06:47:47.047 +0100	click	Addasubtask_1	at (620, 328)	3	on_createsubtask	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 06:47:49.049 +0100	typetext		skdmfkdf,sdssff,zzzzz[return]	4	on_createsubtask	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 06:47:50.050 +0100	doubleclick	Shopping	at (305, 189)	2	on_createsubtask	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 06:47:52.052 +0100	click	Addasubtask_1	at (620, 328)	3	on_createsubtask	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 06:47:54.054 +0100	typetext		skdmfkdf,sdssff,zzzzz[return]	4	on_createsubtask	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 06:47:55.055 +0100	doubleclick	Shopping	at (305, 189)	2	on_createsubtask	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 06:47:57.057 +0100	click	Addasubtask_1	at (620, 328)	3	on_createsubtask	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 06:47:59.059 +0100	typetext		skdmfkdf,sdssff,zzzzz[return]	4	on_createsubtask	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 06:47:59.059 +0100	Log		Lil	10	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Load_Data_copy1.script
+2016-06-03 06:47:59.059 +0100	Log		Bo	11	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Load_Data_copy1.script
+2016-06-03 06:47:59.059 +0100	Log		Beep,DDDD,sssss	12	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Load_Data_copy1.script
+2016-06-03 06:47:59.059 +0100	Log		matchfound	18	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Load_Data_copy1.script
+2016-06-03 06:47:59.059 +0100	Log		matach todo found	26	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Load_Data_copy1.script
+2016-06-03 06:48:00.000 +0100	doubleclick	Shopping	at (305, 189)	2	on_createsubtask	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 06:48:02.002 +0100	click	Addasubtask_1	at (620, 328)	3	on_createsubtask	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 06:48:03.003 +0100	typetext		Beep,DDDD,sssss[return]	4	on_createsubtask	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 06:48:05.005 +0100	doubleclick	Shopping	at (305, 189)	2	on_createsubtask	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 06:48:07.007 +0100	click	Addasubtask_1	at (620, 328)	3	on_createsubtask	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 06:48:08.008 +0100	typetext		Beep,DDDD,sssss[return]	4	on_createsubtask	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 06:48:10.010 +0100	doubleclick	Shopping	at (305, 189)	2	on_createsubtask	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 06:48:12.012 +0100	click	Addasubtask_1	at (620, 328)	3	on_createsubtask	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 06:48:13.013 +0100	typetext		Beep,DDDD,sssss[return]	4	on_createsubtask	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 06:48:13.013 +0100	EndTestCase		(Duration:"52.5", Errors:"0", Exceptions:"0", StartTime:"2016-06-03 06:47:21 +0100", Successes:"1", TestCase:"_Test6 ReadFile.script", Warnings:"0")
+2016-06-03 06:48:13.013 +0100	SUCCESS		Execution Time 0:00:52 _Test6 ReadFile.script

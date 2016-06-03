@@ -1,0 +1,11 @@
+﻿2016-06-02 15:15:05.005 +0100	START		Running _Test6 ReadFile.script
+2016-06-02 15:15:06.006 +0100	click	Lists/Createlist	at (58, 705)	4	on_listmethod	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/List.script
+2016-06-02 15:15:07.007 +0100	click	Lists/ListName	at (427, 169)	5	on_listmethod	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/List.script
+2016-06-02 15:15:08.008 +0100	typetext		"Things to do	6	on_listmethod	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/List.script
+2016-06-02 15:15:09.009 +0100	click	Save	at (641, 373)	7	on_listmethod	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/List.script
+2016-06-02 15:15:18.018 +0100	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(384,170), ImageRectangle:(345,163,424,177), Language:"English", Text:<<"Things to do>>, TextDifference:"1", TextPlatform:"Generic OCR")	found at (384, 170)	8	on_listmethod	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/List.script
+2016-06-02 15:15:18.018 +0100	click	Todos/image0001	at (355, 108)	3	on_create	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-02 15:15:19.019 +0100	typetext		Shopping[return]	4	on_create	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-02 15:15:43.043 +0100	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(364,166), ImageRectangle:(334,159,394,173), Language:"English", SearchRectangle:(312,103,983,703), Text:"Shopping", TextDifference:"1", TextPlatform:"Generic OCR")	found at (364, 166)	5	on_create	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-02 15:15:43.043 +0100	EndTestCase		(Duration:"37.948", Errors:"1", Exceptions:"0", StartTime:"2016-06-02 15:15:05 +0100", Successes:"0", TestCase:"_Test6 ReadFile.script", Warnings:"0")
+2016-06-02 15:15:44.044 +0100	FAILURE	Screen_Error.png	STUnknownMessage ERROR: No Such Command: 'create' -- Execution Time 0:00:38 _Test6 ReadFile.script

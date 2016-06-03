@@ -1,0 +1,20 @@
+﻿2016-06-02 21:10:35.035 +0100	START		Running _Test6 ReadFile.script
+2016-06-02 21:10:36.036 +0100	Log		Baa	10	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Load_Data.script
+2016-06-02 21:10:36.036 +0100	click	Lists/Createlist	at (49, 11)	4	on_listmethod	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/List.script
+2016-06-02 21:10:37.037 +0100	click	Lists/ListName	at (426, 168)	5	on_listmethod	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/List.script
+2016-06-02 21:10:38.038 +0100	typetext		Baa	6	on_listmethod	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/List.script
+2016-06-02 21:10:38.038 +0100	click	Save	at (641, 373)	7	on_listmethod	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/List.script
+2016-06-02 21:10:52.052 +0100	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(310,45), ImageRectangle:(295,38,325,52), Language:"English", Text:"Baa", TextDifference:"1", TextPlatform:"Generic OCR")	found at (310, 45)	8	on_listmethod	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/List.script
+2016-06-02 21:10:52.052 +0100	Log		Lil	10	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Load_Data.script
+2016-06-02 21:10:53.053 +0100	click	Lists/Createlist	at (58, 705)	4	on_listmethod	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/List.script
+2016-06-02 21:10:54.054 +0100	click	Lists/ListName	at (426, 168)	5	on_listmethod	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/List.script
+2016-06-02 21:10:54.054 +0100	typetext		Lil	6	on_listmethod	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/List.script
+2016-06-02 21:10:55.055 +0100	click	Save	at (640, 372)	7	on_listmethod	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/List.script
+2016-06-02 21:11:10.010 +0100	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(349,167), ImageRectangle:(341,162,357,173), Language:"English", Text:"Lil", TextDifference:"1", TextPlatform:"Generic OCR")	found at (349, 167)	8	on_listmethod	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/List.script
+2016-06-02 21:11:11.011 +0100	Log		nxcmxn	10	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Load_Data.script
+2016-06-02 21:11:11.011 +0100	click	Lists/Createlist	at (49, 11)	4	on_listmethod	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/List.script
+2016-06-02 21:11:12.012 +0100	click	Lists/ListName	at (276, 89)	5	on_listmethod	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/List.script
+2016-06-02 21:11:13.013 +0100	typetext		nxcmxn	6	on_listmethod	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/List.script
+2016-06-02 21:11:14.014 +0100	click	Save	at (236, 206)	7	on_listmethod	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/List.script
+2016-06-02 21:13:18.018 +0100	EndTestCase		(Duration:"162.446", Errors:"1", Exceptions:"0", StartTime:"2016-06-02 21:10:35 +0100", Successes:"0", TestCase:"_Test6 ReadFile.script", Warnings:"0")
+2016-06-02 21:13:18.018 +0100	ABORTED		Execution Time 0:02:43 _Test6 ReadFile.script

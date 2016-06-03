@@ -1,0 +1,5 @@
+﻿2016-06-03 08:01:43.043 +0100	START		Running _test3 create list.script
+2016-06-03 08:01:43.043 +0100	Log		Finding Listmynewlist1	3	on_findlist	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/List.script
+2016-06-03 08:01:44.044 +0100	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(77,215), ImageRectangle:(40,208,114,222), Language:"English", SearchRectangle:(21,80,218,657), Text:"mynewlist1", TextDifference:"1", TextPlatform:"Generic OCR")	found at (77, 215)	5	on_findlist	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/List.script
+2016-06-03 08:01:45.045 +0100	EndTestCase		(Duration:"1.375", Errors:"1", Exceptions:"0", StartTime:"2016-06-03 08:01:43 +0100", Successes:"0", TestCase:"_test3 create list.script", Warnings:"0")
+2016-06-03 08:01:45.045 +0100	FAILURE	Screen_Error.png	InvalidCommandOrRange Not a valid command, or incorrect types given for a range (not numbers, date/times, or characters) -- Execution Time 0:00:02 _test3 create list.script

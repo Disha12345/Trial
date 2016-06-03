@@ -1,0 +1,39 @@
+﻿<?xml version="1.0"?>
+<runHistory script="Subtask">
+ <run>
+  <RunDate>2016-06-02 16:04:57.057 +0100</RunDate>
+  <Status>Success</Status>
+  <Duration>0.031000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160602_160457.057/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+< <run>
+  <RunDate>2016-06-02 16:05:11.011 +0100</RunDate>
+  <Status>Failure</Status>
+  <Duration>3.438000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160602_160511.011/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>Image Not Found -- waitfor Error - Error Computing Rectangle: (subtaskTopleft ,subtaskbottomright,)</ErrorMessage>
+ </run>
+< <run>
+  <RunDate>2016-06-02 16:05:43.043 +0100</RunDate>
+  <Status>Success</Status>
+  <Duration>4.761000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160602_160543.043/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+</runHistory>

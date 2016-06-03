@@ -1,0 +1,1 @@
+2016-06-02 20:55:55.055 +0100,Failure,0:00:01,1,0,0,20160602_205555.055/LogFile.txt,"","SRUN_BadValue -- Bad value for Chunk expression.  Looking for a number, LAST, MIDDLE, or ANY, got ''.",0

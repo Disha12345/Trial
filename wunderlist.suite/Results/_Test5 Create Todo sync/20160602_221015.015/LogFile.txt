@@ -1,0 +1,6 @@
+﻿2016-06-02 22:10:15.015 +0100	START		Running _Test5 Create Todo sync.script
+2016-06-02 22:10:16.016 +0100	click	Todos/image0001	at (315, 76)	3	on_create	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-02 22:10:17.017 +0100	typetext		New Todo[return]	4	on_create	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-02 22:10:49.049 +0100	Exception	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", SearchRectangle:(940,34,983,703), Text:"New Todo", TextDifference:"1", TextPlatform:"Generic OCR")	Unable To Find Any Image On Screen "(TEXT:"New Todo")" within 8.00 seconds	5	on_create	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-02 22:10:49.049 +0100	EndTestCase		(Duration:"34.012", Errors:"1", Exceptions:"1", StartTime:"2016-06-02 22:10:15 +0100", Successes:"0", TestCase:"_Test5 Create Todo sync.script", Warnings:"0")
+2016-06-02 22:10:49.049 +0100	FAILURE	Screen_Error.png	Image Not Found waitfor Error - Unable To Find Any Image On Screen "(TEXT:"New Todo")" within 8.00 seconds  Restricted Search Rectangle ((940,34),(983,703))\n -- Execution Time 0:00:34 _Test5 Create Todo sync.script

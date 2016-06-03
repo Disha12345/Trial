@@ -1,0 +1,5 @@
+﻿2016-06-02 22:14:48.048 +0100	START		Running _Test1Create To-do.script
+2016-06-02 22:14:48.048 +0100	click	Todos/image0001	at (315, 76)	3	on_create	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-02 22:14:49.049 +0100	typetext		dddd[return]	4	on_create	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-02 22:15:47.047 +0100	EndTestCase		(Duration:"59.689", Errors:"1", Exceptions:"0", StartTime:"2016-06-02 22:14:48 +0100", Successes:"0", TestCase:"_Test1Create To-do.script", Warnings:"0")
+2016-06-02 22:15:47.047 +0100	ABORTED		Execution Time 0:00:59 _Test1Create To-do.script

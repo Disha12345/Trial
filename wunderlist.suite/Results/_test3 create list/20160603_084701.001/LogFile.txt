@@ -1,0 +1,5 @@
+﻿2016-06-03 08:47:01.001 +0100	START		Running _test3 create list.script
+2016-06-03 08:47:01.001 +0100	Log		listfound	8	on_findlist1	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/List.script
+2016-06-03 08:47:01.001 +0100	Log		status	4	on__test3_create_list	_test3 create list.script
+2016-06-03 08:47:02.002 +0100	EndTestCase		(Duration:"0.609", Errors:"0", Exceptions:"0", StartTime:"2016-06-03 08:47:01 +0100", Successes:"1", TestCase:"_test3 create list.script", Warnings:"0")
+2016-06-03 08:47:02.002 +0100	SUCCESS		Execution Time 0:00:01 _test3 create list.script

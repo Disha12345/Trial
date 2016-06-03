@@ -1,0 +1,6 @@
+﻿2016-06-03 06:23:43.043 +0100	START		Running _Test1Create To-do.script
+2016-06-03 06:23:43.043 +0100	click	Addatodo	at (378, 105)	3	on_create	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 06:23:44.044 +0100	typetext		bbb[return]	4	on_create	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 06:24:23.023 +0100	Exception	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", SearchRectangle:(468,36,996,646), Text:"bbb", TextDifference:"2", TextPlatform:"Generic OCR")	Unable To Find Any Image On Screen "(TEXT:"bbb")" within 8.00 seconds	5	on_create	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 06:24:24.024 +0100	EndTestCase		(Duration:"41.512", Errors:"1", Exceptions:"1", StartTime:"2016-06-03 06:23:43 +0100", Successes:"0", TestCase:"_Test1Create To-do.script", Warnings:"0")
+2016-06-03 06:24:24.024 +0100	ABORTED		Execution Time 0:00:41 _Test1Create To-do.script

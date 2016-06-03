@@ -1,0 +1,9 @@
+﻿2016-06-02 20:49:56.056 +0100	START		Running _Test6 ReadFile.script
+2016-06-02 20:49:57.057 +0100	Log		"Things to do	11	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Load_Data.script
+2016-06-02 20:49:57.057 +0100	click	Lists/Createlist	at (58, 705)	4	on_listmethod	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/List.script
+2016-06-02 20:49:58.058 +0100	click	Lists/ListName	at (429, 170)	5	on_listmethod	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/List.script
+2016-06-02 20:49:59.059 +0100	typetext		"Things to do	6	on_listmethod	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/List.script
+2016-06-02 20:50:00.000 +0100	click	Save	at (641, 373)	7	on_listmethod	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/List.script
+2016-06-02 20:51:12.012 +0100	Exception		Searching For Image: OCR Error: Operation was aborted	8	on_listmethod	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/List.script
+2016-06-02 20:51:12.012 +0100	EndTestCase		(Duration:"75.887", Errors:"1", Exceptions:"1", StartTime:"2016-06-02 20:49:56 +0100", Successes:"0", TestCase:"_Test6 ReadFile.script", Warnings:"0")
+2016-06-02 20:51:12.012 +0100	ABORTED		Execution Time 0:01:16 _Test6 ReadFile.script

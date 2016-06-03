@@ -1,0 +1,12 @@
+﻿<?xml version="1.0"?>
+<testsuites>
+ <testsuite name="subtask.script" package="WunderlistHelp.suite" timestamp="2016-06-02 16:04:41.041 +0100"
+ tests="1" successes="0" errors="1" time="3.484000">
+  <properties>
+   <property name="RunDate" value="2016-06-02 16:04:41.041 +0100"/>
+   <property name="Status" value="Failure"/>
+  </properties>
+  <testcase name="subtask.script" assertions="1" successes="0" errors="1" time="3.469">
+  </testcase>
+ </testsuite>
+</testsuites>

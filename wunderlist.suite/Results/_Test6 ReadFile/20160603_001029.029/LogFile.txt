@@ -1,0 +1,6 @@
+﻿2016-06-03 00:10:29.029 +0100	START		Running _Test6 ReadFile.script
+2016-06-03 00:10:29.029 +0100	Log		Baa	10	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Load_Data.script
+2016-06-03 00:10:29.029 +0100	Log		Black	11	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Load_Data.script
+2016-06-03 00:10:29.029 +0100	Log		Sheep,wool	12	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Load_Data.script
+2016-06-03 00:10:30.030 +0100	EndTestCase		(Duration:"0.594", Errors:"1", Exceptions:"0", StartTime:"2016-06-03 00:10:29 +0100", Successes:"0", TestCase:"_Test6 ReadFile.script", Warnings:"0")
+2016-06-03 00:10:30.030 +0100	FAILURE	Screen_Error.png	STUnknownMessage ERROR: No Such Function: 'findlist' -- Execution Time 0:00:01 _Test6 ReadFile.script

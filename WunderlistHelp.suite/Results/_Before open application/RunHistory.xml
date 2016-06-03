@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<runHistory script="_Before open application">
+ <run>
+  <RunDate>2016-06-02 14:12:25.025 +0100</RunDate>
+  <Status>Failure</Status>
+  <Duration>0.297000</Duration>
+  <Errors>1</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>1</Exceptions>
+  <Successes>0</Successes>
+  <LogFile>20160602_141225.025/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage>No Remote Connection -- doubleclick Error - Remote Connection Unavailable</ErrorMessage>
+ </run>
+</runHistory>

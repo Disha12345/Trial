@@ -1,0 +1,5 @@
+﻿2016-06-03 09:08:01.001 +0100	START		Running _test3 create list.script
+2016-06-03 09:08:01.001 +0100	Log		Finding Listdisha	3	on_findlist	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/List.script
+2016-06-03 09:08:01.001 +0100	Exception		Too Few Parameters, please use waitfor time, image1[, imageX]	5	on_findlist	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/List.script
+2016-06-03 09:08:02.002 +0100	EndTestCase		(Duration:"0.578", Errors:"1", Exceptions:"1", StartTime:"2016-06-03 09:08:01 +0100", Successes:"0", TestCase:"_test3 create list.script", Warnings:"0")
+2016-06-03 09:08:02.002 +0100	FAILURE	Screen_Error.png	Error Running Script Command waitfor Error - Too Few Parameters, please use waitfor time, image1[, imageX] -- Execution Time 0:00:01 _test3 create list.script

@@ -1,0 +1,4 @@
+﻿put "disha1" into list
+//list.listmethod list
+list.findlist1 list
+log status

@@ -1,0 +1,7 @@
+﻿2016-06-02 16:05:43.043 +0100	START		Running subtask.script
+2016-06-02 16:05:43.043 +0100	doubleclick	Shopping	at (364, 165)	1	on_subtask	subtask.script
+2016-06-02 16:05:45.045 +0100	click	Addasubtask_1	at (620, 328)	2	on_subtask	subtask.script
+2016-06-02 16:05:46.046 +0100	typetext		subtodo[return]	3	on_subtask	subtask.script
+2016-06-02 16:05:47.047 +0100	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(733,197), ImageRectangle:(707,192,759,203), Language:"English", SearchRectangle:(683,72,990,634), Text:"subtodo", TextDifference:"1", TextPlatform:"Generic OCR")	found at (733, 197)	4	on_subtask	subtask.script
+2016-06-02 16:05:48.048 +0100	EndTestCase		(Duration:"4.746", Errors:"0", Exceptions:"0", StartTime:"2016-06-02 16:05:43 +0100", Successes:"1", TestCase:"subtask.script", Warnings:"0")
+2016-06-02 16:05:48.048 +0100	SUCCESS		Execution Time 0:00:05 subtask.script

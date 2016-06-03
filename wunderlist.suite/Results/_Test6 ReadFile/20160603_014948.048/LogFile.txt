@@ -1,0 +1,10 @@
+﻿2016-06-03 01:49:48.048 +0100	START		Running _Test6 ReadFile.script
+2016-06-03 01:49:48.048 +0100	Log		"Things to do	10	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Load_Data.script
+2016-06-03 01:49:48.048 +0100	Log		Shopping	11	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Load_Data.script
+2016-06-03 01:49:48.048 +0100	Log		Milk"	12	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Load_Data.script
+2016-06-03 01:49:48.048 +0100	Log		Finding List"Things to do	3	on_findlist	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/List.script
+2016-06-03 01:49:49.049 +0100	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(82,177), ImageRectangle:(40,170,124,184), Language:"English", SearchRectangle:(21,80,218,657), Text:<<"Things to do>>, TextDifference:"1", TextPlatform:"Generic OCR")	found at (82, 177)	5	on_findlist	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/List.script
+2016-06-03 01:49:49.049 +0100	Log		matchfound	18	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Load_Data.script
+2016-06-03 01:49:49.049 +0100	Log		Finding TodoShopping	2	on_find	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 01:50:14.014 +0100	EndTestCase		(Duration:"26.138", Errors:"1", Exceptions:"0", StartTime:"2016-06-03 01:49:48 +0100", Successes:"0", TestCase:"_Test6 ReadFile.script", Warnings:"0")
+2016-06-03 01:50:14.014 +0100	ABORTED		Execution Time 0:00:26 _Test6 ReadFile.script

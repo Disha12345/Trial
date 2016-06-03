@@ -1,0 +1,5 @@
+﻿2016-06-03 06:25:03.003 +0100	START		Running _Test1Create To-do.script
+2016-06-03 06:25:04.004 +0100	click	Addatodo	at (378, 105)	3	on_create	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 06:25:05.005 +0100	typetext		ggg[return]	4	on_create	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-03 06:25:05.005 +0100	EndTestCase		(Duration:"1.906", Errors:"0", Exceptions:"0", StartTime:"2016-06-03 06:25:03 +0100", Successes:"1", TestCase:"_Test1Create To-do.script", Warnings:"0")
+2016-06-03 06:25:05.005 +0100	SUCCESS		Execution Time 0:00:02 _Test1Create To-do.script

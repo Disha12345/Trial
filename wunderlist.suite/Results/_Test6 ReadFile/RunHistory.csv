@@ -1,0 +1,161 @@
+﻿Date Run,Status,Time,# of Errors,# of Warnings,# of Exceptions,Log File,Return Value,Error Message,# of Successes
+2016-06-01 14:44:07.007 +0100,"Failure",0:00:00,1,0,0,"20160601_144407.007/LogFile.txt","","STUnknownMessage -- ERROR: No Such Command: 'readfile'",0
+2016-06-01 14:44:22.022 +0100,"Success",0:02:37,0,0,0,"20160601_144422.022/LogFile.txt","","",1
+2016-06-01 21:01:27.027 +0100,"Running",0:00:00,0,0,0,"20160601_210127.027/LogFile.txt","","",0
+2016-06-01 21:02:00.000 +0100,"Success",0:03:02,0,0,0,"20160601_210200.000/LogFile.txt","","",1
+2016-06-02 14:18:38.038 +0100,"Failure",0:00:37,1,0,0,"20160602_141838.038/LogFile.txt","","Image Not Found -- waitfor Error - Unable To Find Image: Todos/To do list bottom right",0
+2016-06-02 14:19:39.039 +0100,"Running",0:00:00,0,0,0,"20160602_141939.039/LogFile.txt","","",0
+2016-06-02 15:08:00.000 +0100,"Running",0:00:00,0,0,0,"20160602_150800.000/LogFile.txt","","",0
+2016-06-02 15:09:38.038 +0100,"Failure",0:00:55,1,0,0,"20160602_150938.038/LogFile.txt","","STUnknownMessage -- ERROR: No Such Command: 'create'",0
+2016-06-02 15:11:34.034 +0100,"Failure",0:00:59,1,0,0,"20160602_151134.034/LogFile.txt","","STUnknownMessage -- ERROR: No Such Command: 'create'",0
+2016-06-02 15:15:05.005 +0100,"Failure",0:00:37,1,0,0,"20160602_151505.005/LogFile.txt","","STUnknownMessage -- ERROR: No Such Command: 'create'",0
+2016-06-02 15:52:11.011 +0100,"Running",0:00:00,0,0,0,"20160602_155211.011/LogFile.txt","","",0
+2016-06-02 15:52:57.057 +0100,"Failure",0:00:23,1,0,0,"20160602_155257.057/LogFile.txt","","STUnknownMessage -- ERROR: No Such Command: 'create'",0
+2016-06-02 16:16:42.042 +0100,"Failure",0:00:08,1,0,0,"20160602_161642.042/LogFile.txt","","SenseTalk Compiler Exception -- in read:\nSyntax Error at line 31: Syntax Error - can't understand ""read"" at or near character 590",0
+2016-06-02 16:17:16.016 +0100,"Failure",0:00:00,1,0,0,"20160602_161716.016/LogFile.txt","","SenseTalk Compiler Exception -- in read:\nSyntax Error at line 31: Syntax Error - can't understand ""read"" at or near character 590",0
+2016-06-02 18:38:37.037 +0100,"Failure",0:01:02,1,0,1,"20160602_183837.037/LogFile.txt","","Image Not Found -- waitfor Error - Unable To Find Any Image On Screen ""(TEXT:""""Things to do"")"" within 8.00 seconds  Restricted Search Rectangle ((312,103),(983,703))\n",0
+2016-06-02 18:41:26.026 +0100,"Running",0:00:00,0,0,0,"20160602_184126.026/LogFile.txt","","",0
+2016-06-02 18:41:31.031 +0100,"Failure",0:00:23,1,0,1,"20160602_184131.031/LogFile.txt","","Image Not Found -- waitfor Error - Unable To Find Any Image On Screen ""(TEXT:""""Things to do"")"" within 8.00 seconds  Restricted Search Rectangle ((21,80),(66,643))\n",0
+2016-06-02 18:42:00.000 +0100,"Running",0:00:00,0,0,0,"20160602_184200.000/LogFile.txt","","",0
+2016-06-02 18:44:13.013 +0100,"Running",0:00:00,0,0,0,"20160602_184413.013/LogFile.txt","","",0
+2016-06-02 18:46:47.047 +0100,"Running",0:00:00,0,0,0,"20160602_184647.047/LogFile.txt","","",0
+2016-06-02 18:53:01.001 +0100,"Running",0:00:00,0,0,0,"20160602_185301.001/LogFile.txt","","",0
+2016-06-02 18:55:29.029 +0100,"Running",0:00:00,0,0,0,"20160602_185529.029/LogFile.txt","","",0
+2016-06-02 19:01:02.002 +0100,"Running",0:00:00,0,0,0,"20160602_190102.002/LogFile.txt","","",0
+2016-06-02 19:06:33.033 +0100,"Failure",0:00:02,1,0,0,"20160602_190633.033/LogFile.txt","","STInvalidBoolean -- Value '1' is not TRUE, FALSE, YES, NO, ON, OFF or empty",1
+2016-06-02 19:07:23.023 +0100,"Failure",0:00:01,1,0,0,"20160602_190723.023/LogFile.txt","","STInvalidBoolean -- Value '1' is not TRUE, FALSE, YES, NO, ON, OFF or empty",1
+2016-06-02 19:07:34.034 +0100,"Running",0:00:00,0,0,0,"20160602_190734.034/LogFile.txt","","",0
+2016-06-02 19:11:56.056 +0100,"Failure",0:00:32,1,0,1,"20160602_191156.056/LogFile.txt","","Image Not Found -- waitfor Error - Unable To Find Any Image On Screen ""(TEXT:""""Things to do"")"" within 8.00 seconds  Restricted Search Rectangle ((21,80),(218,657))\n",0
+2016-06-02 19:13:59.059 +0100,"Running",0:00:00,0,0,0,"20160602_191359.059/LogFile.txt","","",0
+2016-06-02 19:15:58.058 +0100,"Failure",0:00:22,1,0,1,"20160602_191558.058/LogFile.txt","","Image Not Found -- waitfor Error - Unable To Find Any Image On Screen ""(TEXT:""""Things to do"")"" within 8.00 seconds  Restricted Search Rectangle ((21,80),(218,657))\n",0
+2016-06-02 19:17:15.015 +0100,"Running",0:00:00,0,0,0,"20160602_191715.015/LogFile.txt","","",0
+2016-06-02 19:30:15.015 +0100,"Running",0:00:00,0,0,0,"20160602_193015.015/LogFile.txt","","",0
+2016-06-02 19:43:30.030 +0100,"Running",0:00:00,0,0,0,"20160602_194330.030/LogFile.txt","","",0
+2016-06-02 19:50:28.028 +0100,"Success",0:00:16,0,0,1,"20160602_195028.028/LogFile.txt","","",1
+2016-06-02 20:05:16.016 +0100,"Running",0:00:00,0,0,0,"20160602_200516.016/LogFile.txt","","",0
+2016-06-02 20:07:27.027 +0100,"Running",0:00:00,0,0,0,"20160602_200727.027/LogFile.txt","","",0
+2016-06-02 20:08:31.031 +0100,"Running",0:00:00,0,0,0,"20160602_200831.031/LogFile.txt","","",0
+2016-06-02 20:30:45.045 +0100,"Failure",0:00:00,1,0,0,"20160602_203045.045/LogFile.txt","","SRUN_BadValue -- Bad value for Chunk expression.  Looking for a number, LAST, MIDDLE, or ANY, got '""THINGS TO DO,SHOPPING,MILK""'.",0
+2016-06-02 20:31:54.054 +0100,"Failure",0:00:00,1,0,0,"20160602_203154.054/LogFile.txt","","SRUN_BadValue -- Bad value for Chunk expression.  Looking for a number, LAST, MIDDLE, or ANY, got '""THINGS TO DO,SHOPPING,MILK""'.",0
+2016-06-02 20:35:17.017 +0100,"Failure",0:00:00,1,0,0,"20160602_203517.017/LogFile.txt","","SRUN_BadValue -- Bad value for Chunk expression.  Looking for a number, LAST, MIDDLE, or ANY, got '""THINGS TO DO,SHOPPING,MILK""'.",0
+2016-06-02 20:38:14.014 +0100,"Running",0:00:00,0,0,0,"20160602_203814.014/LogFile.txt","","",0
+2016-06-02 20:38:18.018 +0100,"Failure",0:00:00,1,0,0,"20160602_203818.018/LogFile.txt","","SRUN_BadValue -- Bad value for Chunk expression.  Looking for a number, LAST, MIDDLE, or ANY, got '""THINGS TO DO,SHOPPING,MILK""'.",0
+2016-06-02 20:38:26.026 +0100,"Failure",0:00:00,1,0,0,"20160602_203826.026/LogFile.txt","","SRUN_BadValue -- Bad value for Chunk expression.  Looking for a number, LAST, MIDDLE, or ANY, got '""THINGS TO DO,SHOPPING,MILK""'.",0
+2016-06-02 20:39:44.044 +0100,"Running",0:00:00,0,0,0,"20160602_203944.044/LogFile.txt","","",0
+2016-06-02 20:39:46.046 +0100,"Failure",0:00:00,1,0,0,"20160602_203946.046/LogFile.txt","","SRUN_BadValue -- Bad value for Chunk expression.  Looking for a number, LAST, MIDDLE, or ANY, got '""THINGS TO DO,SHOPPING,MILK""'.",0
+2016-06-02 20:42:03.003 +0100,"Failure",0:00:00,1,0,0,"20160602_204203.003/LogFile.txt","","SRUN_BadValue -- Bad value for Chunk expression.  Looking for a number, LAST, MIDDLE, or ANY, got '""THINGS TO DO,SHOPPING,MILK""'.",0
+2016-06-02 20:43:12.012 +0100,"Running",0:00:00,0,0,0,"20160602_204312.012/LogFile.txt","","",0
+2016-06-02 20:43:17.017 +0100,"Running",0:00:00,0,0,0,"20160602_204317.017/LogFile.txt","","",0
+2016-06-02 20:44:47.047 +0100,"Running",0:00:00,0,0,0,"20160602_204447.047/LogFile.txt","","",0
+2016-06-02 20:46:09.009 +0100,"Running",0:00:00,0,0,0,"20160602_204609.009/LogFile.txt","","",0
+2016-06-02 20:49:56.056 +0100,"Running",0:00:00,0,0,0,"20160602_204956.056/LogFile.txt","","",0
+2016-06-02 20:55:55.055 +0100,"Failure",0:00:01,1,0,0,"20160602_205555.055/LogFile.txt","","SRUN_BadValue -- Bad value for Chunk expression.  Looking for a number, LAST, MIDDLE, or ANY, got ''.",0
+2016-06-02 20:58:00.000 +0100,"Failure",0:00:00,1,0,0,"20160602_205800.000/LogFile.txt","","SRUN_BadValue -- Bad value for Chunk expression.  Looking for a number, LAST, MIDDLE, or ANY, got ''.",0
+2016-06-02 20:59:45.045 +0100,"Success",0:00:00,0,0,0,"20160602_205945.045/LogFile.txt","","",1
+2016-06-02 21:00:55.055 +0100,"Running",0:00:00,0,0,0,"20160602_210055.055/LogFile.txt","","",0
+2016-06-02 21:03:23.023 +0100,"Failure",0:00:37,1,0,1,"20160602_210323.023/LogFile.txt","","Image Not Found -- click Error - No Image Found On Screen: ""Save""",0
+2016-06-02 21:04:52.052 +0100,"Running",0:00:00,0,0,0,"20160602_210452.052/LogFile.txt","","",0
+2016-06-02 21:07:39.039 +0100,"Running",0:00:00,0,0,0,"20160602_210739.039/LogFile.txt","","",0
+2016-06-02 21:10:35.035 +0100,"Running",0:00:00,0,0,0,"20160602_211035.035/LogFile.txt","","",0
+2016-06-02 21:20:44.044 +0100,"Success",0:02:11,0,0,0,"20160602_212044.044/LogFile.txt","","",1
+2016-06-02 21:41:21.021 +0100,"Running",0:00:00,0,0,0,"20160602_214121.021/LogFile.txt","","",0
+2016-06-02 21:44:50.050 +0100,"Running",0:00:00,0,0,0,"20160602_214450.050/LogFile.txt","","",0
+2016-06-02 21:48:32.032 +0100,"Failure",0:03:19,1,0,1,"20160602_214832.032/LogFile.txt","","Image Not Found -- waitfor Error - Unable To Find Any Image On Screen ""(TEXT:""Black"")"" within 8.00 seconds  Restricted Search Rectangle ((940,34),(983,703))\n",0
+2016-06-02 22:26:02.002 +0100,"Running",0:00:00,0,0,0,"20160602_222602.002/LogFile.txt","","",0
+2016-06-02 22:27:12.012 +0100,"Failure",0:00:37,1,0,1,"20160602_222712.012/LogFile.txt","","Image Not Found -- waitfor Error - Unable To Find Any Image On Screen ""(TEXT:""Black"")"" within 8.00 seconds  Restricted Search Rectangle ((940,34),(983,703))\n",0
+2016-06-02 22:28:47.047 +0100,"Running",0:00:00,0,0,0,"20160602_222847.047/LogFile.txt","","",0
+2016-06-02 22:29:32.032 +0100,"Success",0:01:34,0,0,0,"20160602_222932.032/LogFile.txt","","",1
+2016-06-02 22:32:36.036 +0100,"Failure",0:00:00,1,0,0,"20160602_223236.036/LogFile.txt","","SRUN_BadValue -- Bad value for Chunk expression.  Looking for a number, LAST, MIDDLE, or ANY, got ''.",0
+2016-06-02 22:33:11.011 +0100,"Failure",0:00:00,1,0,0,"20160602_223311.011/LogFile.txt","","SRUN_BadValue -- Bad value for Chunk expression.  Looking for a number, LAST, MIDDLE, or ANY, got ''.",0
+2016-06-02 22:35:55.055 +0100,"Failure",0:00:00,1,0,0,"20160602_223555.055/LogFile.txt","","SRUN_BadValue -- Bad value for Chunk expression.  Looking for a number, LAST, MIDDLE, or ANY, got ''.",0
+2016-06-02 22:38:47.047 +0100,"Failure",0:00:50,1,0,1,"20160602_223847.047/LogFile.txt","","Image Not Found -- waitfor Error - Unable To Find Any Image On Screen ""(TEXT:""Black"")"" within 8.00 seconds  Restricted Search Rectangle ((940,34),(983,703))\n",0
+2016-06-02 22:39:56.056 +0100,"Failure",0:00:27,1,0,1,"20160602_223956.056/LogFile.txt","","Image Not Found -- waitfor Error - Unable To Find Any Image On Screen ""(TEXT:""Black"")"" within 8.00 seconds  Restricted Search Rectangle ((940,34),(983,703))\n",0
+2016-06-02 22:40:48.048 +0100,"Running",0:00:00,0,0,0,"20160602_224048.048/LogFile.txt","","",0
+2016-06-02 22:43:27.027 +0100,"Failure",0:00:46,1,0,1,"20160602_224327.027/LogFile.txt","","Image Not Found -- waitfor Error - Unable To Find Any Image On Screen ""(TEXT:""Black"")"" within 8.00 seconds  Restricted Search Rectangle ((940,34),(983,703))\n",0
+2016-06-02 22:45:17.017 +0100,"Failure",0:01:46,1,0,1,"20160602_224517.017/LogFile.txt","","Image Not Found -- waitfor Error - Unable To Find Any Image On Screen ""(TEXT:""Black"")"" within 8.00 seconds  Restricted Search Rectangle ((940,34),(983,703))\n",0
+2016-06-02 22:48:20.020 +0100,"Running",0:00:00,0,0,0,"20160602_224820.020/LogFile.txt","","",0
+2016-06-02 22:51:37.037 +0100,"Running",0:00:00,0,0,0,"20160602_225137.037/LogFile.txt","","",0
+2016-06-02 22:54:58.058 +0100,"Failure",0:00:37,1,0,1,"20160602_225458.058/LogFile.txt","","Image Not Found -- waitfor Error - Unable To Find Any Image On Screen ""(TEXT:""Black"")"" within 8.00 seconds  Restricted Search Rectangle ((983,36),(996,703))\n",0
+2016-06-02 22:57:00.000 +0100,"Running",0:00:00,0,0,0,"20160602_225700.000/LogFile.txt","","",0
+2016-06-02 23:04:16.016 +0100,"Failure",0:00:00,1,0,0,"20160602_230416.016/LogFile.txt","","SenseTalk Compiler Exception -- in read:\nSyntax Error at line 24: Syntax Error - can't understand ""read"" at or near character 568",0
+2016-06-02 23:05:16.016 +0100,"Running",0:00:00,0,0,0,"20160602_230516.016/LogFile.txt","","",0
+2016-06-02 23:07:00.000 +0100,"Running",0:00:00,0,0,0,"20160602_230700.000/LogFile.txt","","",0
+2016-06-02 23:08:57.057 +0100,"Failure",0:00:45,1,0,1,"20160602_230857.057/LogFile.txt","","Image Not Found -- waitfor Error - Unable To Find Any Image On Screen ""(TEXT:""subtodo"")"" within 8.00 seconds  Restricted Search Rectangle ((683,72),(990,634))\n",0
+2016-06-02 23:10:18.018 +0100,"Running",0:00:00,0,0,0,"20160602_231018.018/LogFile.txt","","",0
+2016-06-02 23:11:17.017 +0100,"Success",0:00:53,0,0,0,"20160602_231117.017/LogFile.txt","","",1
+2016-06-02 23:13:49.049 +0100,"Success",0:00:52,0,0,0,"20160602_231349.049/LogFile.txt","","",1
+2016-06-02 23:19:40.040 +0100,"Success",0:01:11,0,0,0,"20160602_231940.040/LogFile.txt","","",1
+2016-06-02 23:41:55.055 +0100,"Success",0:01:14,0,0,0,"20160602_234155.055/LogFile.txt","","",1
+2016-06-02 23:48:58.058 +0100,"Running",0:00:00,0,0,0,"20160602_234858.058/LogFile.txt","","",0
+2016-06-02 23:49:46.046 +0100,"Running",0:00:00,0,0,0,"20160602_234946.046/LogFile.txt","","",0
+2016-06-02 23:56:29.029 +0100,"Running",0:00:00,0,0,0,"20160602_235629.029/LogFile.txt","","",0
+2016-06-03 00:00:09.009 +0100,"Running",0:00:00,0,0,0,"20160603_000009.009/LogFile.txt","","",0
+2016-06-03 00:09:05.005 +0100,"Failure",0:00:00,1,0,0,"20160603_000905.005/LogFile.txt","","STUnknownMessage -- ERROR: No Such Function: 'findlist'",0
+2016-06-03 00:10:29.029 +0100,"Failure",0:00:00,1,0,0,"20160603_001029.029/LogFile.txt","","STUnknownMessage -- ERROR: No Such Function: 'findlist'",0
+2016-06-03 00:12:16.016 +0100,"Failure",0:00:00,1,0,0,"20160603_001216.016/LogFile.txt","","STUnknownMessage -- ERROR: No Such Function: 'findlist'",0
+2016-06-03 00:13:35.035 +0100,"Failure",0:00:00,1,0,0,"20160603_001335.035/LogFile.txt","","STUnknownMessage -- ERROR: No Such Function: 'findlist'",0
+2016-06-03 00:14:28.028 +0100,"Failure",0:00:00,1,0,0,"20160603_001428.028/LogFile.txt","","STUnknownMessage -- ERROR: No Such Function: 'findlist'",0
+2016-06-03 00:15:15.015 +0100,"Failure",0:00:00,1,0,0,"20160603_001515.015/LogFile.txt","","STUnknownMessage -- ERROR: No Such Command: 'findlist'",0
+2016-06-03 00:16:56.056 +0100,"Failure",0:00:00,1,0,0,"20160603_001656.056/LogFile.txt","","STUnknownMessage -- ERROR: No Such Command: 'findlist'",0
+2016-06-03 00:18:14.014 +0100,"Failure",0:00:00,1,0,0,"20160603_001814.014/LogFile.txt","","STUnknownMessage -- ERROR: No Such Function: 'findlist'",0
+2016-06-03 00:22:07.007 +0100,"Running",0:00:00,0,0,0,"20160603_002207.007/LogFile.txt","","",0
+2016-06-03 00:33:17.017 +0100,"Running",0:00:00,0,0,0,"20160603_003317.017/LogFile.txt","","",0
+2016-06-03 00:43:36.036 +0100,"Running",0:00:00,0,0,0,"20160603_004336.036/LogFile.txt","","",0
+2016-06-03 00:45:57.057 +0100,"Running",0:00:00,0,0,0,"20160603_004557.057/LogFile.txt","","",0
+2016-06-03 00:47:22.022 +0100,"Running",0:00:00,0,0,0,"20160603_004722.022/LogFile.txt","","",0
+2016-06-03 00:50:42.042 +0100,"Running",0:00:00,0,0,0,"20160603_005042.042/LogFile.txt","","",0
+2016-06-03 00:51:48.048 +0100,"Running",0:00:00,0,0,0,"20160603_005148.048/LogFile.txt","","",0
+2016-06-03 00:52:35.035 +0100,"Running",0:00:00,0,0,0,"20160603_005235.035/LogFile.txt","","",0
+2016-06-03 00:53:29.029 +0100,"Running",0:00:00,0,0,0,"20160603_005329.029/LogFile.txt","","",0
+2016-06-03 00:56:46.046 +0100,"Running",0:00:00,0,0,0,"20160603_005646.046/LogFile.txt","","",0
+2016-06-03 00:57:48.048 +0100,"Running",0:00:00,0,0,0,"20160603_005748.048/LogFile.txt","","",0
+2016-06-03 00:58:37.037 +0100,"Running",0:00:00,0,0,0,"20160603_005837.037/LogFile.txt","","",0
+2016-06-03 01:05:51.051 +0100,"Running",0:00:00,0,0,0,"20160603_010551.051/LogFile.txt","","",0
+2016-06-03 01:05:52.052 +0100,"Running",0:00:00,0,0,0,"20160603_010552.052/LogFile.txt","","",0
+2016-06-03 01:11:41.041 +0100,"Running",0:00:00,0,0,0,"20160603_011141.041/LogFile.txt","","",0
+2016-06-03 01:12:26.026 +0100,"Running",0:00:00,0,0,0,"20160603_011226.026/LogFile.txt","","",0
+2016-06-03 01:16:19.019 +0100,"Running",0:00:00,0,0,0,"20160603_011619.019/LogFile.txt","","",0
+2016-06-03 01:16:58.058 +0100,"Running",0:00:00,0,0,0,"20160603_011658.058/LogFile.txt","","",0
+2016-06-03 01:18:29.029 +0100,"Success",0:02:30,0,0,0,"20160603_011829.029/LogFile.txt","","",1
+2016-06-03 01:27:35.035 +0100,"Running",0:00:00,0,0,0,"20160603_012735.035/LogFile.txt","","",0
+2016-06-03 01:28:29.029 +0100,"Running",0:00:00,0,0,0,"20160603_012829.029/LogFile.txt","","",0
+2016-06-03 01:32:28.028 +0100,"Running",0:00:00,0,0,0,"20160603_013228.028/LogFile.txt","","",0
+2016-06-03 01:34:11.011 +0100,"Running",0:00:00,0,0,0,"20160603_013411.011/LogFile.txt","","",0
+2016-06-03 01:34:17.017 +0100,"Running",0:00:00,0,0,0,"20160603_013417.017/LogFile.txt","","",0
+2016-06-03 01:39:32.032 +0100,"Failure",0:00:02,1,0,0,"20160603_013932.032/LogFile.txt","","InvalidCommandOrRange -- Not a valid command, or incorrect types given for a range (not numbers, date/times, or characters)",0
+2016-06-03 01:40:11.011 +0100,"Failure",0:00:01,1,0,0,"20160603_014011.011/LogFile.txt","","InvalidCommandOrRange -- Not a valid command, or incorrect types given for a range (not numbers, date/times, or characters)",0
+2016-06-03 01:41:14.014 +0100,"Failure",0:00:01,1,0,0,"20160603_014114.014/LogFile.txt","","InvalidCommandOrRange -- Not a valid command, or incorrect types given for a range (not numbers, date/times, or characters)",0
+2016-06-03 01:41:39.039 +0100,"Running",0:00:00,0,0,0,"20160603_014139.039/LogFile.txt","","",0
+2016-06-03 01:42:16.016 +0100,"Failure",0:00:01,1,0,0,"20160603_014216.016/LogFile.txt","","InvalidCommandOrRange -- Not a valid command, or incorrect types given for a range (not numbers, date/times, or characters)",0
+2016-06-03 05:46:12.012 +0100,"Running",0:00:00,0,0,0,"20160603_054612.012/LogFile.txt","","",0
+2016-06-03 05:51:28.028 +0100,"Running",0:00:00,0,0,0,"20160603_055128.028/LogFile.txt","","",0
+2016-06-03 05:53:02.002 +0100,"Running",0:00:00,0,0,0,"20160603_055302.002/LogFile.txt","","",0
+2016-06-03 05:54:33.033 +0100,"Running",0:00:00,0,0,0,"20160603_055433.033/LogFile.txt","","",0
+2016-06-03 05:55:35.035 +0100,"Running",0:00:00,0,0,0,"20160603_055535.035/LogFile.txt","","",0
+2016-06-03 06:02:15.015 +0100,"Running",0:00:00,0,0,0,"20160603_060215.015/LogFile.txt","","",0
+2016-06-03 06:03:30.030 +0100,"Running",0:00:00,0,0,0,"20160603_060330.030/LogFile.txt","","",0
+2016-06-03 06:04:49.049 +0100,"Failure",0:00:30,1,0,1,"20160603_060449.049/LogFile.txt","","Image Not Found -- waitfor Error - Unable To Find Any Image On Screen ""(TEXT:""Shopping"")"" within 8.00 seconds  Restricted Search Rectangle ((468,36),(996,646))\n",0
+2016-06-03 06:05:56.056 +0100,"Running",0:00:00,0,0,0,"20160603_060556.056/LogFile.txt","","",0
+2016-06-03 06:07:15.015 +0100,"Running",0:00:00,0,0,0,"20160603_060715.015/LogFile.txt","","",0
+2016-06-03 06:08:21.021 +0100,"Running",0:00:00,0,0,0,"20160603_060821.021/LogFile.txt","","",0
+2016-06-03 06:16:03.003 +0100,"Running",0:00:00,0,0,0,"20160603_061603.003/LogFile.txt","","",0
+2016-06-03 06:17:10.010 +0100,"Running",0:00:00,0,0,0,"20160603_061710.010/LogFile.txt","","",0
+2016-06-03 06:18:56.056 +0100,"Running",0:00:00,0,0,0,"20160603_061856.056/LogFile.txt","","",0
+2016-06-03 06:21:37.037 +0100,"Running",0:00:00,0,0,0,"20160603_062137.037/LogFile.txt","","",0
+2016-06-03 06:23:07.007 +0100,"Running",0:00:00,0,0,0,"20160603_062307.007/LogFile.txt","","",0
+2016-06-03 06:26:05.005 +0100,"Running",0:00:00,0,0,0,"20160603_062605.005/LogFile.txt","","",0
+2016-06-03 06:26:45.045 +0100,"Failure",0:00:02,1,0,0,"20160603_062645.045/LogFile.txt","","STInvalidBoolean -- Value 'logerror' is not TRUE, FALSE, YES, NO, ON, OFF or empty",1
+2016-06-03 06:28:45.045 +0100,"Running",0:00:00,0,0,0,"20160603_062845.045/LogFile.txt","","",0
+2016-06-03 06:34:45.045 +0100,"Failure",0:00:06,1,0,0,"20160603_063445.045/LogFile.txt","","STInvalidBoolean -- Value 'logerror' is not TRUE, FALSE, YES, NO, ON, OFF or empty",1
+2016-06-03 06:35:57.057 +0100,"Failure",0:00:06,1,0,0,"20160603_063557.057/LogFile.txt","","STInvalidBoolean -- Value 'logerror' is not TRUE, FALSE, YES, NO, ON, OFF or empty",1
+2016-06-03 06:43:02.002 +0100,"Failure",0:01:01,1,0,0,"20160603_064302.002/LogFile.txt","","InvalidCommandOrRange -- Not a valid command, or incorrect types given for a range (not numbers, date/times, or characters)",0
+2016-06-03 06:44:40.040 +0100,"Running",0:00:00,0,0,0,"20160603_064440.040/LogFile.txt","","",0
+2016-06-03 06:47:21.021 +0100,"Success",0:00:52,0,0,0,"20160603_064721.021/LogFile.txt","","",1
+2016-06-03 06:49:15.015 +0100,"Failure",0:00:00,1,0,0,"20160603_064915.015/LogFile.txt","","SenseTalk Compiler Exception -- in read:\nSyntax Error at line 19: Syntax Error - can't understand ""if"" at or near character 458",0
+2016-06-03 06:49:40.040 +0100,"Success",0:02:04,0,0,0,"20160603_064940.040/LogFile.txt","","",1
+2016-06-03 06:54:26.026 +0100,"Running",0:00:00,0,0,0,"20160603_065426.026/LogFile.txt","","",0
+2016-06-03 07:37:31.031 +0100,"Running",0:00:00,0,0,0,"20160603_073731.031/LogFile.txt","","",0
+2016-06-03 07:38:21.021 +0100,"Running",0:00:00,0,0,0,"20160603_073821.021/LogFile.txt","","",0
+2016-06-03 07:40:40.040 +0100,"Running",0:00:00,0,0,0,"20160603_074040.040/LogFile.txt","","",0
+2016-06-03 07:41:44.044 +0100,"Failure",0:00:00,1,0,0,"20160603_074144.044/LogFile.txt","","STUnknownMessage -- ERROR: No Such Command: 'findlist1'",0
+2016-06-03 07:46:58.058 +0100,"Failure",0:00:00,1,0,0,"20160603_074658.058/LogFile.txt","","STUnknownMessage -- ERROR: No Such Function: 'findlist1'",0

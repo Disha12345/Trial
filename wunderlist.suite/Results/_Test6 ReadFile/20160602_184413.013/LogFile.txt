@@ -1,0 +1,4 @@
+﻿2016-06-02 18:44:13.013 +0100	START		Running _Test6 ReadFile.script
+2016-06-02 18:44:13.013 +0100	Log		Finding List"Things to do	2	on_findlist	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-02 18:46:23.023 +0100	EndTestCase		(Duration:"130.065", Errors:"1", Exceptions:"0", StartTime:"2016-06-02 18:44:13 +0100", Successes:"0", TestCase:"_Test6 ReadFile.script", Warnings:"0")
+2016-06-02 18:46:23.023 +0100	ABORTED		Execution Time 0:02:10 _Test6 ReadFile.script

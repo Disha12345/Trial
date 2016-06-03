@@ -1,0 +1,9 @@
+﻿2016-06-02 22:54:58.058 +0100	START		Running _Test6 ReadFile.script
+2016-06-02 22:54:58.058 +0100	Log		Baa	10	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Load_Data.script
+2016-06-02 22:54:58.058 +0100	Log		Black	11	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Load_Data.script
+2016-06-02 22:54:58.058 +0100	Log		Sheep,wool	12	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Load_Data.script
+2016-06-02 22:54:58.058 +0100	click	Addatodo	at (378, 105)	3	on_create	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-02 22:54:59.059 +0100	typetext		Black[return]	4	on_create	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-02 22:55:34.034 +0100	Exception	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", SearchRectangle:(983,36,996,703), Text:"Black", TextDifference:"2", TextPlatform:"Generic OCR")	Unable To Find Any Image On Screen "(TEXT:"Black")" within 8.00 seconds	5	on_create	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-02 22:55:35.035 +0100	EndTestCase		(Duration:"37.262", Errors:"1", Exceptions:"1", StartTime:"2016-06-02 22:54:58 +0100", Successes:"0", TestCase:"_Test6 ReadFile.script", Warnings:"0")
+2016-06-02 22:55:35.035 +0100	FAILURE	Screen_Error.png	Image Not Found waitfor Error - Unable To Find Any Image On Screen "(TEXT:"Black")" within 8.00 seconds  Restricted Search Rectangle ((983,36),(996,703))\n -- Execution Time 0:00:37 _Test6 ReadFile.script
