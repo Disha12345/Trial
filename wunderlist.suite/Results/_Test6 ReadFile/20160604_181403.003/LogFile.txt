@@ -1,0 +1,9 @@
+﻿2016-06-04 18:14:03.003 +0100	START		Running _Test6 ReadFile.script
+2016-06-04 18:14:05.005 +0100	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(51,175), ImageRectangle:(40,170,63,181), Language:"English", SearchRectangle:(19,39,217,656), TEXT:"Baa", TextDifference:"1", TextPlatform:"Generic OCR")	found at (51, 175)	10	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Demo.script
+2016-06-04 18:14:30.030 +0100	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(51,175), ImageRectangle:(40,170,63,181), Language:"English", TEXT:"Baa", TextPlatform:"Generic OCR")	at (51, 175)	11	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Demo.script
+2016-06-04 18:14:34.034 +0100	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(351,164), ImageRectangle:(334,159,369,170), Language:"English", SearchRectangle:(79,42,926,676), TEXT:"Black", TextDifference:"1", TextPlatform:"Generic OCR")	found at (351, 164)	17	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Demo.script
+2016-06-04 18:14:34.034 +0100	Log		foundBlack	18	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Demo.script
+2016-06-04 18:14:35.035 +0100	doubleclick	Shopping	at (307, 190)	23	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Demo.script
+2016-06-04 18:14:35.035 +0100	Exception		Image Property List did not contain "ImageName" property	26	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Demo.script
+2016-06-04 18:14:35.035 +0100	EndTestCase		(Duration:"32.678", Errors:"1", Exceptions:"1", StartTime:"2016-06-04 18:14:03 +0100", Successes:"0", TestCase:"_Test6 ReadFile.script", Warnings:"0")
+2016-06-04 18:14:36.036 +0100	FAILURE	Screen_Error.png	Image Not Found imagefound Error - Image Property List did not contain "ImageName" property -- Execution Time 0:00:32 _Test6 ReadFile.script

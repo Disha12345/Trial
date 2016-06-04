@@ -1,24 +1,29 @@
 ﻿to read readfile
 	//to load file
-	put file"C:\Users\disha.biju\Desktop\Sampletest.csv" into datafile
+	put file"C:\Users\disha.biju\Desktop\EPF_Homework.csv" into datafile
 	
 	Repeat with each line data in datafile
 		put data
 		put the first item of data into list
 		put the second item of data into todo
 		put items 3 to -1 of data into subtask
-		log list
-		log todo
-		log subtask
-		Repeat with each item of list
-			list.listmethod list
-			
-			Repeat with each item of todo
-				Todo.create todo
-				Repeat with each item of subtask
-					Todo.createsubtask subtask		
-				End Repeat
-			End Repeat
-		End Repeat
+		if ImageFound(3.0, (TEXT:list,TextDifference:1,SearchRectangle :( "listtopleft", "listbottomright")))
+			Click (TEXT: list)
+			//log "found" & list
+		else
+			List.listmethod list
+		end if
+		
+		if ImageFound(3.0, (TEXT:todo,TextDifference:1,SearchRectangle :( "Todos/todotopleftnew",  "Todos/Todobottomrightnew")))
+			log "found" &todo
+		else
+			Todo.create todo
+		end if
+		
+		//	Repeat with each item of subtask
+		//		Todo.createsubtask subtask		
+		
+		
+		
 	End Repeat
 end read

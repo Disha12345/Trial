@@ -1,7 +1,0 @@
-﻿2016-06-03 13:11:30.030 +0100	START		Running _Test6 ReadFile.script
-2016-06-03 13:11:30.030 +0100	Log		Baa	10	on_read	C:/Users/disha.biju/Documents/GitHub/Trial/WunderlistHelp.suite/Scripts/Load_Data_copy1.script
-2016-06-03 13:11:30.030 +0100	Log		Black	11	on_read	C:/Users/disha.biju/Documents/GitHub/Trial/WunderlistHelp.suite/Scripts/Load_Data_copy1.script
-2016-06-03 13:11:30.030 +0100	Log		Sheep,wool	12	on_read	C:/Users/disha.biju/Documents/GitHub/Trial/WunderlistHelp.suite/Scripts/Load_Data_copy1.script
-2016-06-03 13:12:26.026 +0100	Exception		Searching For Image: OCR Error: Operation was aborted	15	on_read	C:/Users/disha.biju/Documents/GitHub/Trial/WunderlistHelp.suite/Scripts/Load_Data_copy1.script
-2016-06-03 13:12:27.027 +0100	EndTestCase		(Duration:"57.215", Errors:"1", Exceptions:"1", StartTime:"2016-06-03 13:11:30 +0100", Successes:"0", TestCase:"_Test6 ReadFile.script", Warnings:"0")
-2016-06-03 13:12:27.027 +0100	ABORTED		Execution Time 0:00:57 _Test6 ReadFile.script

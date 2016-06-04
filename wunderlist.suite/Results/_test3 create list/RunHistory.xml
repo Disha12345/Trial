@@ -964,4 +964,28 @@
   <ReturnValue></ReturnValue>
   <ErrorMessage>STUnknownMessage -- ERROR: No Such Function: &#x27;findlist1&#x27;</ErrorMessage>
  </run>
+< <run>
+  <RunDate>2016-06-04 15:54:07.007 +0100</RunDate>
+  <Status>Success</Status>
+  <Duration>11.110000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160604_155407.007/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
+< <run>
+  <RunDate>2016-06-04 15:54:50.050 +0100</RunDate>
+  <Status>Success</Status>
+  <Duration>13.126000</Duration>
+  <Errors>0</Errors>
+  <Warnings>0</Warnings>
+  <Exceptions>0</Exceptions>
+  <Successes>1</Successes>
+  <LogFile>20160604_155450.050/LogFile.txt</LogFile>
+  <ReturnValue></ReturnValue>
+  <ErrorMessage></ErrorMessage>
+ </run>
 </runHistory>

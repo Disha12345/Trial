@@ -1,0 +1,5 @@
+﻿2016-06-04 19:13:20.020 +0100	START		Running _Test6 ReadFile.script
+2016-06-04 19:13:21.021 +0100	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(51,175), ImageRectangle:(40,170,63,181), Language:"English", SearchRectangle:(19,39,217,656), TEXT:"Baa", TextDifference:"1", TextPlatform:"Generic OCR")	found at (51, 175)	10	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Demo.script
+2016-06-04 19:13:33.033 +0100	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(310,46), ImageRectangle:(295,39,325,53), Language:"English", TEXT:"Baa", TextPlatform:"Generic OCR")	at (310, 46)	11	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Demo.script
+2016-06-04 19:13:34.034 +0100	EndTestCase		(Duration:"14.203", Errors:"1", Exceptions:"0", StartTime:"2016-06-04 19:13:20 +0100", Successes:"0", TestCase:"_Test6 ReadFile.script", Warnings:"0")
+2016-06-04 19:13:34.034 +0100	ABORTED		Execution Time 0:00:14 _Test6 ReadFile.script

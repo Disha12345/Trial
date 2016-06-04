@@ -1,0 +1,4 @@
+﻿2016-06-04 15:40:51.051 +0100	START		Running _Test6 ReadFile.script
+2016-06-04 15:41:02.002 +0100	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(310,45), ImageRectangle:(295,38,325,52), Language:"English", Text:"Baa", TextPlatform:"Generic OCR")	found at (310, 45)	10	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Load_Data_copy.script
+2016-06-04 15:41:02.002 +0100	EndTestCase		(Duration:"11.417", Errors:"0", Exceptions:"0", StartTime:"2016-06-04 15:40:51 +0100", Successes:"1", TestCase:"_Test6 ReadFile.script", Warnings:"0")
+2016-06-04 15:41:02.002 +0100	SUCCESS		Execution Time 0:00:11 _Test6 ReadFile.script

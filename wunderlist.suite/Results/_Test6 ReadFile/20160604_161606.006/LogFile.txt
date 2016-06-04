@@ -1,0 +1,6 @@
+﻿2016-06-04 16:16:06.006 +0100	START		Running _Test6 ReadFile.script
+2016-06-04 16:16:08.008 +0100	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(67,251), ImageRectangle:(56,246,79,257), Language:"English", SearchRectangle:(21,80,217,656), TEXT:"Baa", TextDifference:"1", TextPlatform:"Generic OCR")	found at (67, 251)	10	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Load_Data_copy.script
+2016-06-04 16:16:19.019 +0100	click	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(67,251), ImageRectangle:(56,246,79,257), Language:"English", TEXT:"Baa", TextPlatform:"Generic OCR")	at (67, 251)	11	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Load_Data_copy.script
+2016-06-04 16:16:50.050 +0100	Exception		Searching For Image: OCR Error: Operation was aborted	17	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Load_Data_copy.script
+2016-06-04 16:16:51.051 +0100	EndTestCase		(Duration:"44.528", Errors:"1", Exceptions:"1", StartTime:"2016-06-04 16:16:06 +0100", Successes:"0", TestCase:"_Test6 ReadFile.script", Warnings:"0")
+2016-06-04 16:16:51.051 +0100	ABORTED		Execution Time 0:00:45 _Test6 ReadFile.script

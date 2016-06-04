@@ -1,0 +1,36 @@
+﻿to read readfile
+	//to load file
+	put file"C:\Users\disha.biju\Desktop\EPF_Homework.csv" into datafile
+	
+	Repeat with each line data in datafile
+		put data
+		put the first item of data into list
+		put the second item of data into todo
+		put items 3 to -1 of data into subtask
+		if ImageFound(3.0, (TEXT:list,TextDifference:1,SearchRectangle :( "listtopleft", "listbottomright")))
+			Click (TEXT: list)
+			//log "found" & list
+		else
+			List.listmethod list
+		end if
+		
+		if ImageFound(3.0, (TEXT:todo,TextDifference:1,SearchRectangle :( "Todos/todotopleftnew",  "Todos/Todobottomrightnew")))
+			log "found" &todo
+		else
+			Todo.create todo
+		end if
+		
+		DoubleClick (Imagename:"Shopping")
+		//waitfor 5.0, "subtaskwindowopen"
+		Repeat with each item of subtask
+			//if ImageFound(8.0, (Text:"Addasubtask_1",SearchRectangle :("subtaskTL","subtaskBR"))) is empty
+			
+			Todo.createsubtask subtask	
+			
+		end repeat
+		
+	End Repeat
+	
+end read
+
+

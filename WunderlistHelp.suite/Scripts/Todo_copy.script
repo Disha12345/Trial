@@ -1,0 +1,51 @@
+﻿to complete todo_name
+
+	//params todo_name
+	
+	
+	put "todo3" into todo_name
+	Repeat with each item of EveryImageLocation("unticked checkbox")
+		put (it.x,it.y-8) into TL
+		put (it.x+400,it.y+8) into BR
+		put ReadText((TL,BR)) into todo_text
+		log todo_text
+		if todo_text contains todo_name
+			click it
+		end if
+	end Repeat
+	
+end complete
+
+
+to create todo_name
+	
+	Click   "Addatodo"
+	TypeText todo_name,Return
+	WaitFor 8.0, (Text:todo_name,TextDifference:2,SearchRectangle :( "Todos/todotopleftnew",  "Todos/Todobottomrightnew"))
+end create
+
+
+
+
+
+to find todo_name
+	Log "Finding Todo" & todo_name
+	try
+		WaitFor 8.0, (Text:todo_name,TextDifference:1,SearchRectangle :( "Todos/todotopleftnew",  "Todos/Todobottomrightnew"))
+	catch exception
+		put 1 to todovar
+		//logsuccess "todo found" &todo_name
+		//return true
+	end try
+	return todovar
+end find
+
+to createsubtask subtask
+	//DoubleClick "Shopping"
+	Click "Addasubtask_1"
+	TypeText subtask,Return
+	WaitFor 8.0, //(Text:subtodo,TextDifference:1,SearchRectangle :("subtaskTopleft ", "subtaskbottomright"))
+end createsubtask
+
+
+

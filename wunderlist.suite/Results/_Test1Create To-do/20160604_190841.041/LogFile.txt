@@ -1,0 +1,10 @@
+﻿2016-06-04 19:08:41.041 +0100	START		Running _Test1Create To-do.script
+2016-06-04 19:08:43.043 +0100	doubleclick	Shopping	at (305, 237)	2	on__test1create_to_do	_Test1Create To-do.script
+2016-06-04 19:08:44.044 +0100	click	Addasubtask_1	at (737, 195)	3	on_createsubtask	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-04 19:08:45.045 +0100	typetext		(ggg,hhh,ppp)[return]	4	on_createsubtask	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-04 19:08:47.047 +0100	click	Addasubtask_1	at (620, 328)	3	on_createsubtask	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-04 19:08:49.049 +0100	typetext		(ggg,hhh,ppp)[return]	4	on_createsubtask	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-04 19:08:50.050 +0100	click	Addasubtask_1	at (620, 328)	3	on_createsubtask	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-04 19:08:52.052 +0100	typetext		(ggg,hhh,ppp)[return]	4	on_createsubtask	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-04 19:08:52.052 +0100	EndTestCase		(Duration:"10.846", Errors:"0", Exceptions:"0", StartTime:"2016-06-04 19:08:41 +0100", Successes:"1", TestCase:"_Test1Create To-do.script", Warnings:"0")
+2016-06-04 19:08:52.052 +0100	SUCCESS		Execution Time 0:00:11 _Test1Create To-do.script

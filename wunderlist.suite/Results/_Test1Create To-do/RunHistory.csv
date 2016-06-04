@@ -43,3 +43,27 @@
 2016-06-03 06:23:43.043 +0100,"Running",0:00:00,0,0,0,"20160603_062343.043/LogFile.txt","","",0
 2016-06-03 06:25:03.003 +0100,"Success",0:00:01,0,0,0,"20160603_062503.003/LogFile.txt","","",1
 2016-06-03 06:37:25.025 +0100,"Success",0:00:07,0,0,0,"20160603_063725.025/LogFile.txt","","",1
+2016-06-04 17:21:42.042 +0100,"Success",0:00:03,0,0,0,"20160604_172142.042/LogFile.txt","","",1
+2016-06-04 17:22:33.033 +0100,"Success",0:00:04,0,0,0,"20160604_172233.033/LogFile.txt","","",1
+2016-06-04 17:23:53.053 +0100,"Success",0:00:12,0,0,0,"20160604_172353.053/LogFile.txt","","",1
+2016-06-04 17:25:18.018 +0100,"Success",0:00:12,0,0,0,"20160604_172518.018/LogFile.txt","","",1
+2016-06-04 17:26:19.019 +0100,"Success",0:00:13,0,0,0,"20160604_172619.019/LogFile.txt","","",1
+2016-06-04 17:46:29.029 +0100,"Success",0:00:14,0,0,0,"20160604_174629.029/LogFile.txt","","",1
+2016-06-04 19:08:41.041 +0100,"Success",0:00:10,0,0,0,"20160604_190841.041/LogFile.txt","","",1
+2016-06-04 20:05:58.058 +0100,"Running",0:00:00,0,0,0,"20160604_200558.058/LogFile.txt","","",0
+2016-06-04 20:08:08.008 +0100,"Running",0:00:00,0,0,0,"20160604_200808.008/LogFile.txt","","",0
+2016-06-04 20:09:55.055 +0100,"Failure",0:00:24,1,0,1,"20160604_200955.055/LogFile.txt","","Image Not Found -- waitfor Error - Unable To Find Any Image On Screen ""(TEXT:""(ggg,hhh,ppp)"")"" within 8.00 seconds  Restricted Search Rectangle ((683,72),(990,634))\n",0
+2016-06-04 20:10:47.047 +0100,"Success",0:00:10,0,0,0,"20160604_201047.047/LogFile.txt","","",1
+2016-06-04 20:13:50.050 +0100,"Success",0:00:12,0,0,0,"20160604_201350.050/LogFile.txt","","",1
+2016-06-04 22:25:37.037 +0100,"Success",0:00:11,0,0,0,"20160604_222537.037/LogFile.txt","","",1
+2016-06-04 22:35:26.026 +0100,"Failure",0:00:01,1,0,0,"20160604_223526.026/LogFile.txt","","SenseTalk Compiler Exception -- in createsubtask:\nSyntax Error at line 6: Syntax Error - can't understand "":"" at or near character 120",0
+2016-06-04 22:37:02.002 +0100,"Failure",0:00:00,1,0,0,"20160604_223702.002/LogFile.txt","","SenseTalk Compiler Exception -- in createsubtask:\nSyntax Error at line 6: Syntax Error - can't understand "":"" at or near character 125",0
+2016-06-04 22:39:58.058 +0100,"Failure",0:00:00,1,0,0,"20160604_223958.058/LogFile.txt","","SenseTalk Compiler Exception -- in createsubtask:\nSyntax Error at line 6: Syntax Error - can't understand "":"" at or near character 125",0
+2016-06-04 22:40:12.012 +0100,"Failure",0:00:03,1,0,1,"20160604_224012.012/LogFile.txt","","Error Running Script Command -- waitfor Error - Too Few Parameters, please use waitfor time, image1[, imageX]",0
+2016-06-04 22:40:39.039 +0100,"Failure",0:00:03,1,0,1,"20160604_224039.039/LogFile.txt","","Error Running Script Command -- waitfor Error - Too Few Parameters, please use waitfor time, image1[, imageX]",0
+2016-06-04 22:42:20.020 +0100,"Failure",0:00:03,1,0,1,"20160604_224220.020/LogFile.txt","","Error Running Script Command -- waitfor Error - Too Few Parameters, please use waitfor time, image1[, imageX]",0
+2016-06-04 22:43:39.039 +0100,"Running",0:00:00,0,0,0,"20160604_224339.039/LogFile.txt","","",0
+2016-06-04 22:46:20.020 +0100,"Success",0:00:50,0,0,0,"20160604_224620.020/LogFile.txt","","",1
+2016-06-04 22:48:06.006 +0100,"Success",0:00:07,0,0,0,"20160604_224806.006/LogFile.txt","","",1
+2016-06-04 22:48:30.030 +0100,"Success",0:00:07,0,0,0,"20160604_224830.030/LogFile.txt","","",1
+2016-06-04 22:49:11.011 +0100,"Success",0:00:07,0,0,0,"20160604_224911.011/LogFile.txt","","",1

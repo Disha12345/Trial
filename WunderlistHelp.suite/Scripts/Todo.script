@@ -41,10 +41,11 @@ to find todo_name
 end find
 
 to createsubtask subtask
-	DoubleClick "Shopping"
-	Click "Addasubtask_1"
+	//DoubleClick "Shopping"
+	Click "addsubtask"
 	TypeText subtask,Return
-	//WaitFor 8.0, (Text:subtodo,TextDifference:1,SearchRectangle :("subtaskTopleft ", "subtaskbottomright"))
+WaitFor 8.0,(Imagename:"addsubtask")//,Textdifference:2,SearchRectangle:( "subtaskTopleft ","subtaskbottomright"))
+
 end createsubtask
 
 

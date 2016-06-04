@@ -79,3 +79,5 @@
 2016-06-03 11:21:39.039 +0100,"Failure",0:00:00,1,0,0,"20160603_112139.039/LogFile.txt","","STUnknownMessage -- ERROR: No Such Function: 'findlist1'",0
 2016-06-03 11:24:00.000 +0100,"Failure",0:00:00,1,0,0,"20160603_112400.000/LogFile.txt","","STUnknownMessage -- ERROR: No Such Function: 'findlist1'",0
 2016-06-03 11:27:01.001 +0100,"Failure",0:00:00,1,0,0,"20160603_112701.001/LogFile.txt","","STUnknownMessage -- ERROR: No Such Function: 'findlist1'",0
+2016-06-04 15:54:07.007 +0100,"Success",0:00:11,0,0,0,"20160604_155407.007/LogFile.txt","","",1
+2016-06-04 15:54:50.050 +0100,"Success",0:00:13,0,0,0,"20160604_155450.050/LogFile.txt","","",1

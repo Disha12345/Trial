@@ -1,0 +1,12 @@
+﻿2016-06-04 15:56:30.030 +0100	START		Running _Test2 Multiple todos.script
+2016-06-04 15:56:30.030 +0100	click	Addatodo	at (378, 105)	3	on_create	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-04 15:56:31.031 +0100	typetext		todo1[return]	4	on_create	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-04 15:56:38.038 +0100	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(397,105), ImageRectangle:(377,100,417,111), Language:"English", SearchRectangle:(79,42,926,676), Text:"todo1", TextDifference:"2", TextPlatform:"Generic OCR")	found at (397, 105)	5	on_create	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-04 15:56:40.040 +0100	click	Addatodo	at (378, 105)	3	on_create	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-04 15:56:41.041 +0100	typetext		todo2[return]	4	on_create	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-04 15:56:45.045 +0100	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(396,104), ImageRectangle:(376,99,417,110), Language:"English", SearchRectangle:(79,42,926,676), Text:"todo2", TextDifference:"2", TextPlatform:"Generic OCR")	found at (396, 104)	5	on_create	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-04 15:56:46.046 +0100	click	Addatodo	at (378, 105)	3	on_create	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-04 15:56:47.047 +0100	typetext		todo3[return]	4	on_create	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-04 15:56:53.053 +0100	waitfor	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:(396,104), ImageRectangle:(376,99,417,110), Language:"English", SearchRectangle:(79,42,926,676), Text:"todo3", TextDifference:"2", TextPlatform:"Generic OCR")	found at (396, 104)	5	on_create	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Todo.script
+2016-06-04 15:56:54.054 +0100	EndTestCase		(Duration:"23.756", Errors:"0", Exceptions:"0", StartTime:"2016-06-04 15:56:30 +0100", Successes:"1", TestCase:"_Test2 Multiple todos.script", Warnings:"0")
+2016-06-04 15:56:54.054 +0100	SUCCESS		Execution Time 0:00:24 _Test2 Multiple todos.script

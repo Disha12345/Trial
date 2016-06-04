@@ -1,12 +1,12 @@
 ﻿<?xml version="1.0"?>
 <statistics>
  <script name="_test3 create list">
-  <LastStatus>Failure</LastStatus>
-  <NumberOfRuns>59</NumberOfRuns>
+  <LastStatus>Success</LastStatus>
+  <NumberOfRuns>61</NumberOfRuns>
   <NumberOfFails>32</NumberOfFails>
   <FirstRun>2016-05-31 12:13:04 +0100</FirstRun>
-  <LastRun>2016-06-03 11:27:01 +0100</LastRun>
-  <TotalTimeOnSuccess>104.072000</TotalTimeOnSuccess>
+  <LastRun>2016-06-04 15:54:50 +0100</LastRun>
+  <TotalTimeOnSuccess>128.308000</TotalTimeOnSuccess>
  </script>
  <script name="_Debug Demo">
   <LastStatus>Success</LastStatus>
@@ -34,27 +34,27 @@
  </script>
  <script name="_Test6 ReadFile">
   <LastStatus>Failure</LastStatus>
-  <NumberOfRuns>72</NumberOfRuns>
-  <NumberOfFails>58</NumberOfFails>
+  <NumberOfRuns>85</NumberOfRuns>
+  <NumberOfFails>67</NumberOfFails>
   <FirstRun>2016-06-01 14:44:07 +0100</FirstRun>
-  <LastRun>2016-06-03 13:27:54 +0100</LastRun>
-  <TotalTimeOnSuccess>1661.734000</TotalTimeOnSuccess>
+  <LastRun>2016-06-04 22:56:51 +0100</LastRun>
+  <TotalTimeOnSuccess>2177.422000</TotalTimeOnSuccess>
  </script>
  <script name="_Test2 Multiple todos">
   <LastStatus>Success</LastStatus>
-  <NumberOfRuns>13</NumberOfRuns>
+  <NumberOfRuns>14</NumberOfRuns>
   <NumberOfFails>4</NumberOfFails>
   <FirstRun>2016-05-31 12:02:22 +0100</FirstRun>
-  <LastRun>2016-06-01 13:09:10 +0100</LastRun>
-  <TotalTimeOnSuccess>103.462000</TotalTimeOnSuccess>
+  <LastRun>2016-06-04 15:56:30 +0100</LastRun>
+  <TotalTimeOnSuccess>127.250000</TotalTimeOnSuccess>
  </script>
  <script name="_Test1Create To-do">
   <LastStatus>Success</LastStatus>
-  <NumberOfRuns>34</NumberOfRuns>
-  <NumberOfFails>9</NumberOfFails>
+  <NumberOfRuns>55</NumberOfRuns>
+  <NumberOfFails>16</NumberOfFails>
   <FirstRun>2016-05-31 11:16:55 +0100</FirstRun>
-  <LastRun>2016-06-03 06:37:25 +0100</LastRun>
-  <TotalTimeOnSuccess>102.790000</TotalTimeOnSuccess>
+  <LastRun>2016-06-04 22:49:11 +0100</LastRun>
+  <TotalTimeOnSuccess>283.103000</TotalTimeOnSuccess>
  </script>
  <script name="_Test4 Completing Todos">
   <LastStatus>Success</LastStatus>

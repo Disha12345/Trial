@@ -1,0 +1,4 @@
+﻿2016-06-04 22:37:02.002 +0100	START		Running _Test1Create To-do.script
+2016-06-04 22:37:03.003 +0100	doubleclick	Shopping	at (578, 141)	3	on__test1create_to_do	_Test1Create To-do.script
+2016-06-04 22:37:03.003 +0100	EndTestCase		(Duration:"0.844", Errors:"1", Exceptions:"0", StartTime:"2016-06-04 22:37:02 +0100", Successes:"0", TestCase:"_Test1Create To-do.script", Warnings:"0")
+2016-06-04 22:37:04.004 +0100	FAILURE	Screen_Error.png	SenseTalk Compiler Exception in createsubtask:\nSyntax Error at line 6: Syntax Error - can't understand ":" at or near character 125 -- Execution Time 0:00:01 _Test1Create To-do.script

@@ -1,0 +1,9 @@
+﻿2016-06-04 16:45:15.015 +0100	START		Running _Test6 ReadFile.script
+2016-06-04 16:45:22.022 +0100	imagefound	(CaseSensitive:"No", Contrast:"Off", IgnoreSpaces:"No", ImageLocation:"", ImageRectangle:"", Language:"English", SearchRectangle:(21,80,217,656), TEXT:"Baa", TextDifference:"1", TextPlatform:"Generic OCR")	Unable to Find Image (TEXT:"Baa") within 3.00 seconds	10	on_read	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/Load_Data_copy.script
+2016-06-04 16:45:23.023 +0100	click	Lists/Createlist	at (58, 705)	4	on_listmethod	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/List.script
+2016-06-04 16:45:23.023 +0100	click	Lists/ListName	at (276, 89)	5	on_listmethod	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/List.script
+2016-06-04 16:45:24.024 +0100	typetext		Baa	6	on_listmethod	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/List.script
+2016-06-04 16:45:25.025 +0100	click	Save	at (564, 143)	7	on_listmethod	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/List.script
+2016-06-04 16:45:48.048 +0100	Exception		Searching For Image: OCR Error: Operation was aborted	8	on_listmethod	C:/Users/disha.biju/Documents/WunderlistHelp.suite/Scripts/List.script
+2016-06-04 16:45:48.048 +0100	EndTestCase		(Duration:"33.416", Errors:"1", Exceptions:"1", StartTime:"2016-06-04 16:45:15 +0100", Successes:"0", TestCase:"_Test6 ReadFile.script", Warnings:"0")
+2016-06-04 16:45:48.048 +0100	ABORTED		Execution Time 0:00:33 _Test6 ReadFile.script

@@ -1,3 +1,9 @@
-﻿put "ggg" into todo_name
-Todo.create todo_name
+﻿put ("ggg","hhh","ppp") into subtask
+
+Doubleclick ("Shopping")
+
+repeat with each item of subtask
+	Todo.createsubtask subtask
+end repeat
+
 
